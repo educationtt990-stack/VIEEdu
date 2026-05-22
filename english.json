@@ -1,0 +1,2120 @@
+{
+  "10": [
+    {
+      "id": "10_u1",
+      "title": "Family Life",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Breadwinner",
+            "pos": "n",
+            "meaning": "Trụ cột gia đình",
+            "ipa": "ˈbredwɪnər"
+          },
+          {
+            "word": "Heavy lifting",
+            "pos": "n",
+            "meaning": "Việc nặng nhọc",
+            "ipa": "ˌhevi ˈlɪftɪŋ"
+          },
+          {
+            "word": "Chore",
+            "pos": "n",
+            "meaning": "Việc vặt trong nhà",
+            "ipa": "tʃɔːr"
+          },
+          {
+            "word": "Groceries",
+            "pos": "n",
+            "meaning": "Hàng tạp hóa",
+            "ipa": "ˈɡroʊsəriz"
+          },
+          {
+            "word": "Laundry",
+            "pos": "n",
+            "meaning": "Việc giặt giũ",
+            "ipa": "ˈlɔːndri"
+          }
+        ],
+        "grammar": "<b>Present Simple vs. Present Continuous:</b><br><br>• <b>Present Simple</b> — diễn tả thói quen, sự thật hiển nhiên.<br>  <i>Ex:</i> My father <u>earns</u> the money in our family.<br><br>• <b>Present Continuous</b> — diễn tả hành động đang xảy ra ngay lúc nói.<br>  <i>Ex:</i> Look! Nam <u>is doing</u> the heavy lifting over there."
+      },
+      "exercises": [
+        {
+          "question": "My mother often ____ (cook) dinner for the family.",
+          "answer": "cooks",
+          "type": "fill-blank"
+        },
+        {
+          "question": "Right now, my sister ____ (do) the laundry.",
+          "answer": "is doing",
+          "type": "fill-blank"
+        },
+        {
+          "question": "They ____ (go) to the market every Sunday.",
+          "answer": "go",
+          "type": "fill-blank"
+        },
+        {
+          "question": "My father ____ the money in our family.",
+          "options": [
+            "earns",
+            "is earning",
+            "earned",
+            "has earned"
+          ],
+          "answer": "A",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "Look! Nam ____ the heavy lifting over there.",
+          "options": [
+            "does",
+            "is doing",
+            "did",
+            "has done"
+          ],
+          "answer": "B",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Breadwinner",
+          "back": "Trụ cột gia đình",
+          "type": "flashcard"
+        },
+        {
+          "front": "Chore",
+          "back": "Việc vặt trong nhà",
+          "type": "flashcard"
+        }
+      ]
+    },
+    {
+      "id": "10_u2",
+      "title": "Music",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Melody",
+            "pos": "n",
+            "meaning": "Giai điệu",
+            "ipa": "ˈmelədi"
+          },
+          {
+            "word": "Rhythm",
+            "pos": "n",
+            "meaning": "Nhịp điệu",
+            "ipa": "ˈrɪðəm"
+          },
+          {
+            "word": "Composer",
+            "pos": "n",
+            "meaning": "Nhà soạn nhạc",
+            "ipa": "kəmˈpoʊzər"
+          },
+          {
+            "word": "Concert",
+            "pos": "n",
+            "meaning": "Buổi hòa nhạc",
+            "ipa": "ˈkɑːnsərt"
+          },
+          {
+            "word": "Instrument",
+            "pos": "n",
+            "meaning": "Nhạc cụ",
+            "ipa": "ˈɪnstrəmənt"
+          }
+        ],
+        "grammar": "<b>Passive Voice (cơ bản):</b><br><br>• Cấu trúc: <b>S + be + V3/ed + (by O)</b><br>• <b>Hiện tại:</b> am/is/are + V3/ed<br>  <i>Ex:</i> Music <u>is played</u> by the band every night.<br>• <b>Quá khứ:</b> was/were + V3/ed<br>  <i>Ex:</i> That song <u>was composed</u> in 1999."
+      },
+      "exercises": [
+        {
+          "question": "This song ____ (write) by a famous composer in 2010.",
+          "answer": "was written",
+          "type": "fill-blank"
+        },
+        {
+          "question": "The guitar ____ (play) by my brother every evening.",
+          "answer": "is played",
+          "type": "fill-blank"
+        },
+        {
+          "question": "The concert ____ (hold) at the city hall last week.",
+          "answer": "was held",
+          "type": "fill-blank"
+        },
+        {
+          "question": "Music ____ by the band every night.",
+          "options": [
+            "plays",
+            "is played",
+            "played",
+            "was played"
+          ],
+          "answer": "B",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "That song ____ in 1999.",
+          "options": [
+            "composes",
+            "is composed",
+            "was composed",
+            "has composed"
+          ],
+          "answer": "C",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Melody",
+          "back": "Giai điệu",
+          "type": "flashcard"
+        },
+        {
+          "front": "Instrument",
+          "back": "Nhạc cụ",
+          "type": "flashcard"
+        }
+      ]
+    },
+    {
+      "id": "10_u3",
+      "title": "Special Education",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Disabled",
+            "pos": "adj",
+            "meaning": "Khuyết tật",
+            "ipa": "dɪsˈeɪbld"
+          },
+          {
+            "word": "Braille",
+            "pos": "n",
+            "meaning": "Chữ nổi",
+            "ipa": "breɪl"
+          },
+          {
+            "word": "Deaf",
+            "pos": "adj",
+            "meaning": "Điếc",
+            "ipa": "def"
+          },
+          {
+            "word": "Blind",
+            "pos": "adj",
+            "meaning": "Mù",
+            "ipa": "blaɪnd"
+          },
+          {
+            "word": "Integrate",
+            "pos": "v",
+            "meaning": "Hội nhập",
+            "ipa": "ˈɪntɪɡreɪt"
+          }
+        ],
+        "grammar": "<b>Used to:</b><br><br>• Diễn tả thói quen trong quá khứ (nay không còn).<br>• Cấu trúc: <b>S + used to + V-inf</b><br>  <i>Ex:</i> She <u>used to</u> have difficulty reading before learning Braille.<br>• Phủ định: <b>S + didn't use to + V-inf</b><br>• Câu hỏi: <b>Did + S + use to + V-inf?</b>"
+      },
+      "exercises": [
+        {
+          "question": "He ____ (be) very shy when he was a child.",
+          "answer": "used to be",
+          "type": "fill-blank"
+        },
+        {
+          "question": "They ____ (not / live) in the countryside before moving here.",
+          "answer": "didn't use to live",
+          "type": "fill-blank"
+        },
+        {
+          "question": "____ she ____ (play) the piano when she was young?",
+          "answer": "Did / use to play",
+          "type": "fill-blank"
+        },
+        {
+          "question": "She ____ have difficulty reading before learning Braille.",
+          "options": [
+            "used to",
+            "use to",
+            "uses to",
+            "was used to"
+          ],
+          "answer": "A",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "____ she use to play the piano?",
+          "options": [
+            "Do",
+            "Does",
+            "Did",
+            "Was"
+          ],
+          "answer": "C",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Disabled",
+          "back": "Khuyết tật",
+          "type": "flashcard"
+        },
+        {
+          "front": "Braille",
+          "back": "Chữ nổi",
+          "type": "flashcard"
+        }
+      ]
+    },
+    {
+      "id": "10_u4",
+      "title": "Inventions",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Invent",
+            "pos": "v",
+            "meaning": "Phát minh",
+            "ipa": "ɪnˈvent"
+          },
+          {
+            "word": "Patent",
+            "pos": "n",
+            "meaning": "Bằng sáng chế",
+            "ipa": "ˈpætnt"
+          },
+          {
+            "word": "Device",
+            "pos": "n",
+            "meaning": "Thiết bị",
+            "ipa": "dɪˈvaɪs"
+          },
+          {
+            "word": "Turbine",
+            "pos": "n",
+            "meaning": "Tua-bin",
+            "ipa": "ˈtɜːrbaɪn"
+          },
+          {
+            "word": "Breakthrough",
+            "pos": "n",
+            "meaning": "Đột phá",
+            "ipa": "ˈbreɪkθruː"
+          }
+        ],
+        "grammar": "<b>Present Perfect:</b><br><br>• Diễn tả hành động bắt đầu trong quá khứ và kéo dài đến hiện tại.<br>• Cấu trúc: <b>S + have/has + V3/ed</b><br>  <i>Ex:</i> Scientists <u>have invented</u> many useful devices.<br>• Dấu hiệu: <i>since, for, already, yet, ever, never, just</i>."
+      },
+      "exercises": [
+        {
+          "question": "Thomas Edison ____ (invent) the light bulb.",
+          "answer": "invented",
+          "type": "fill-blank"
+        },
+        {
+          "question": "They ____ (already / develop) a new version of the device.",
+          "answer": "have already developed",
+          "type": "fill-blank"
+        },
+        {
+          "question": "____ you ____ (ever / try) using a 3D printer?",
+          "answer": "Have / ever tried",
+          "type": "fill-blank"
+        },
+        {
+          "question": "Scientists ____ many useful devices.",
+          "options": [
+            "invented",
+            "have invented",
+            "are inventing",
+            "were inventing"
+          ],
+          "answer": "B",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "____ you ever tried using a 3D printer?",
+          "options": [
+            "Have",
+            "Has",
+            "Did",
+            "Were"
+          ],
+          "answer": "A",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Invent",
+          "back": "Phát minh",
+          "type": "flashcard"
+        },
+        {
+          "front": "Patent",
+          "back": "Bằng sáng chế",
+          "type": "flashcard"
+        }
+      ]
+    },
+    {
+      "id": "10_u5",
+      "title": "Gender Equality",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Equality",
+            "pos": "n",
+            "meaning": "Bình đẳng",
+            "ipa": "iˈkwɑːləti"
+          },
+          {
+            "word": "Discrimination",
+            "pos": "n",
+            "meaning": "Phân biệt đối xử",
+            "ipa": "dɪˌskrɪmɪˈneɪʃn"
+          },
+          {
+            "word": "Empower",
+            "pos": "v",
+            "meaning": "Trao quyền",
+            "ipa": "ɪmˈpaʊər"
+          },
+          {
+            "word": "Stereotype",
+            "pos": "n",
+            "meaning": "Định kiến",
+            "ipa": "ˈsteriətaɪp"
+          },
+          {
+            "word": "Career",
+            "pos": "n",
+            "meaning": "Sự nghiệp",
+            "ipa": "kəˈrɪr"
+          }
+        ],
+        "grammar": "<b>Modal verbs: should / must / have to</b><br><br>• <b>Should:</b> nên (lời khuyên)<br>  <i>Ex:</i> Everyone <u>should</u> be treated equally.<br>• <b>Must:</b> phải (bắt buộc)<br>  <i>Ex:</i> We <u>must</u> stop discrimination.<br>• <b>Have to:</b> phải (do ngoại cảnh)<br>  <i>Ex:</i> Women <u>have to</u> work harder to prove themselves."
+      },
+      "exercises": [
+        {
+          "question": "You ____ (should / respect) others regardless of gender.",
+          "answer": "should respect",
+          "type": "fill-blank"
+        },
+        {
+          "question": "We ____ (must / eliminate) gender stereotypes.",
+          "answer": "must eliminate",
+          "type": "fill-blank"
+        },
+        {
+          "question": "She ____ (has to / work) twice as hard as her male colleagues.",
+          "answer": "has to work",
+          "type": "fill-blank"
+        },
+        {
+          "question": "Everyone ____ be treated equally.",
+          "options": [
+            "should",
+            "must to",
+            "have to",
+            "ought"
+          ],
+          "answer": "A",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "Women ____ work harder to prove themselves.",
+          "options": [
+            "must",
+            "have to",
+            "should to",
+            "can to"
+          ],
+          "answer": "B",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Equality",
+          "back": "Bình đẳng",
+          "type": "flashcard"
+        },
+        {
+          "front": "Discrimination",
+          "back": "Phân biệt đối xử",
+          "type": "flashcard"
+        }
+      ]
+    },
+    {
+      "id": "10_u6",
+      "title": "Cultural Diversity",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Diversity",
+            "pos": "n",
+            "meaning": "Đa dạng",
+            "ipa": "daɪˈvɜːrsəti"
+          },
+          {
+            "word": "Tradition",
+            "pos": "n",
+            "meaning": "Truyền thống",
+            "ipa": "trəˈdɪʃn"
+          },
+          {
+            "word": "Custom",
+            "pos": "n",
+            "meaning": "Phong tục",
+            "ipa": "ˈkʌstəm"
+          },
+          {
+            "word": "Heritage",
+            "pos": "n",
+            "meaning": "Di sản",
+            "ipa": "ˈherɪtɪdʒ"
+          },
+          {
+            "word": "Ethnic",
+            "pos": "adj",
+            "meaning": "Thuộc dân tộc",
+            "ipa": "ˈeθnɪk"
+          }
+        ],
+        "grammar": "<b>Comparatives and Superlatives:</b><br><br>• <b>So sánh hơn:</b> S1 + be + adj-er/more adj + than + S2<br>  <i>Ex:</i> This custom <u>is more unique than</u> that one.<br>• <b>So sánh nhất:</b> S + be + the + adj-est/most adj<br>  <i>Ex:</i> Tet <u>is the most important</u> festival in Vietnam."
+      },
+      "exercises": [
+        {
+          "question": "Vietnamese culture is ____ (rich) than some other cultures.",
+          "answer": "richer",
+          "type": "fill-blank"
+        },
+        {
+          "question": "This is ____ (fascinating) tradition I have ever seen.",
+          "answer": "the most fascinating",
+          "type": "fill-blank"
+        },
+        {
+          "question": "Heritage preservation is ____ (important) than tourism.",
+          "answer": "more important",
+          "type": "fill-blank"
+        },
+        {
+          "question": "Vietnamese culture is ____ than some other cultures.",
+          "options": [
+            "rich",
+            "richer",
+            "richest",
+            "more rich"
+          ],
+          "answer": "B",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "Tet is ____ most important festival in Vietnam.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ],
+          "answer": "C",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Diversity",
+          "back": "Đa dạng",
+          "type": "flashcard"
+        },
+        {
+          "front": "Heritage",
+          "back": "Di sản",
+          "type": "flashcard"
+        }
+      ]
+    },
+    {
+      "id": "10_u7",
+      "title": "New Ways to Learn",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Online",
+            "pos": "adj",
+            "meaning": "Trực tuyến",
+            "ipa": "ˌɑːnˈlaɪn"
+          },
+          {
+            "word": "Platform",
+            "pos": "n",
+            "meaning": "Nền tảng",
+            "ipa": "ˈplætfɔːrm"
+          },
+          {
+            "word": "Interactive",
+            "pos": "adj",
+            "meaning": "Tương tác",
+            "ipa": "ˌɪntərˈæktɪv"
+          },
+          {
+            "word": "Self-study",
+            "pos": "n",
+            "meaning": "Tự học",
+            "ipa": "ˌself ˈstʌdi"
+          },
+          {
+            "word": "Curriculum",
+            "pos": "n",
+            "meaning": "Chương trình học",
+            "ipa": "kəˈrɪkjələm"
+          }
+        ],
+        "grammar": "<b>Relative Clauses:</b><br><br>• <b>Who:</b> chỉ người<br>  <i>Ex:</i> Students <u>who</u> study online can learn at their own pace.<br>• <b>Which:</b> chỉ vật<br>  <i>Ex:</i> The platform <u>which</u> we use is very interactive.<br>• <b>That:</b> chỉ cả người và vật (trong mệnh đề xác định)."
+      },
+      "exercises": [
+        {
+          "question": "The teacher ____ (who / teaches) online is very experienced.",
+          "answer": "who teaches",
+          "type": "fill-blank"
+        },
+        {
+          "question": "The course ____ (which / offer) many interactive features is popular.",
+          "answer": "which offers",
+          "type": "fill-blank"
+        },
+        {
+          "question": "The student ____ (that / sit) next to me is doing self-study.",
+          "answer": "that sits",
+          "type": "fill-blank"
+        },
+        {
+          "question": "Students ____ study online can learn at their own pace.",
+          "options": [
+            "which",
+            "whom",
+            "who",
+            "whose"
+          ],
+          "answer": "C",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "The platform ____ we use is very interactive.",
+          "options": [
+            "who",
+            "whom",
+            "which",
+            "whose"
+          ],
+          "answer": "C",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Online",
+          "back": "Trực tuyến",
+          "type": "flashcard"
+        },
+        {
+          "front": "Self-study",
+          "back": "Tự học",
+          "type": "flashcard"
+        }
+      ]
+    },
+    {
+      "id": "10_u8",
+      "title": "Phonetics & Sounds",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Consonant",
+            "pos": "n",
+            "meaning": "Phụ âm",
+            "ipa": "ˈkɑːnsənənt"
+          },
+          {
+            "word": "Vowel",
+            "pos": "n",
+            "meaning": "Nguyên âm",
+            "ipa": "ˈvaʊəl"
+          },
+          {
+            "word": "Diphthong",
+            "pos": "n",
+            "meaning": "Nguyên âm đôi",
+            "ipa": "ˈdɪfθɔːŋ"
+          },
+          {
+            "word": "Stress",
+            "pos": "n",
+            "meaning": "Trọng âm",
+            "ipa": "stres"
+          },
+          {
+            "word": "Intonation",
+            "pos": "n",
+            "meaning": "Ngữ điệu",
+            "ipa": "ˌɪntəˈneɪʃn"
+          }
+        ],
+        "grammar": "<b>Pronunciation Rules:</b><br><br>• <b>-ed ending:</b><br>  /ɪd/ sau t, d — <i>wanted, needed</i><br>  /t/ sau k, p, s, ch, sh — <i>worked, stopped</i><br>  /d/ các trường hợp còn lại — <i>played, called</i><br><br>• <b>-s/es ending:</b><br>  /ɪz/ sau s, z, ch, sh, x — <i>watches, boxes</i><br>  /s/ sau k, p, t, f — <i>looks, stops</i><br>  /z/ các trường hợp còn lại — <i>plays, words</i>"
+      },
+      "exercises": [
+        {
+          "question": "The word 'watched' has the -ed sound: /t/, /d/, or /ɪd/?",
+          "answer": "/t/",
+          "type": "fill-blank"
+        },
+        {
+          "question": "The word 'needed' has the -ed sound: /t/, /d/, or /ɪd/?",
+          "answer": "/ɪd/",
+          "type": "fill-blank"
+        },
+        {
+          "question": "The word 'boxes' has the -s sound: /s/, /z/, or /ɪz/?",
+          "answer": "/ɪz/",
+          "type": "fill-blank"
+        },
+        {
+          "question": "The word 'watched' has the -ed sound:",
+          "options": [
+            "/t/",
+            "/d/",
+            "/ɪd/",
+            "/ed/"
+          ],
+          "answer": "A",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "The word 'boxes' has the -s sound:",
+          "options": [
+            "/s/",
+            "/z/",
+            "/ɪz/",
+            "/ez/"
+          ],
+          "answer": "C",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Consonant",
+          "back": "Phụ âm",
+          "type": "flashcard"
+        },
+        {
+          "front": "Diphthong",
+          "back": "Nguyên âm đôi",
+          "type": "flashcard"
+        }
+      ]
+    }
+  ],
+  "11": [
+    {
+      "id": "11_u1",
+      "title": "The Generation Gap",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Generation gap",
+            "pos": "n",
+            "meaning": "Khoảng cách thế hệ",
+            "ipa": "ˌdʒenəˈreɪʃn ɡæp"
+          },
+          {
+            "word": "Open-minded",
+            "pos": "adj",
+            "meaning": "Cởi mở",
+            "ipa": "ˌoʊpən ˈmaɪndɪd"
+          },
+          {
+            "word": "Strict",
+            "pos": "adj",
+            "meaning": "Nghiêm khắc",
+            "ipa": "strɪkt"
+          },
+          {
+            "word": "Respect",
+            "pos": "v",
+            "meaning": "Tôn trọng",
+            "ipa": "rɪˈspekt"
+          },
+          {
+            "word": "Rebel",
+            "pos": "v",
+            "meaning": "Nổi loạn",
+            "ipa": "rɪˈbel"
+          }
+        ],
+        "grammar": "<b>Should / Ought to / Had better:</b><br><br>• <b>Should:</b> nên làm gì<br>  <i>Ex:</i> You <u>should</u> listen to your parents' advice.<br>• <b>Ought to:</b> nên (mạnh hơn should)<br>  <i>Ex:</i> Children <u>ought to</u> respect the elderly.<br>• <b>Had better:</b> tốt hơn nên (nếu không sẽ có hậu quả)<br>  <i>Ex:</i> You <u>had better</u> finish your homework before going out."
+      },
+      "exercises": [
+        {
+          "question": "You ____ (should / talk) to your parents about your problems.",
+          "answer": "should talk",
+          "type": "fill-blank"
+        },
+        {
+          "question": "Teenagers ____ (ought to / listen) to advice from adults.",
+          "answer": "ought to listen",
+          "type": "fill-blank"
+        },
+        {
+          "question": "You ____ (had better / not / stay) out too late.",
+          "answer": "had better not stay",
+          "type": "fill-blank"
+        },
+        {
+          "question": "You ____ listen to your parents' advice.",
+          "options": [
+            "should",
+            "ought",
+            "had better to",
+            "must to"
+          ],
+          "answer": "A",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "Children ____ respect the elderly.",
+          "options": [
+            "should",
+            "ought to",
+            "had better to",
+            "must to"
+          ],
+          "answer": "B",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Generation gap",
+          "back": "Khoảng cách thế hệ",
+          "type": "flashcard"
+        },
+        {
+          "front": "Open-minded",
+          "back": "Cởi mở",
+          "type": "flashcard"
+        }
+      ]
+    },
+    {
+      "id": "11_u2",
+      "title": "Relationships",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Acquaintance",
+            "pos": "n",
+            "meaning": "Người quen",
+            "ipa": "əˈkweɪntəns"
+          },
+          {
+            "word": "Sympathy",
+            "pos": "n",
+            "meaning": "Sự đồng cảm",
+            "ipa": "ˈsɪmpəθi"
+          },
+          {
+            "word": "Trust",
+            "pos": "n/v",
+            "meaning": "Tin tưởng",
+            "ipa": "trʌst"
+          },
+          {
+            "word": "Argue",
+            "pos": "v",
+            "meaning": "Tranh luận",
+            "ipa": "ˈɑːrɡjuː"
+          },
+          {
+            "word": "Reconcile",
+            "pos": "v",
+            "meaning": "Hòa giải",
+            "ipa": "ˈrekənsaɪl"
+          }
+        ],
+        "grammar": "<b>Prepositions + V-ing:</b><br><br>• Sau giới từ (in, on, at, of, for, about, ...) động từ thêm <b>-ing</b>.<br>  <i>Ex:</i> She is interested <u>in making</u> new friends.<br>  <i>Ex:</i> They apologized <u>for being</u> late.<br>• Một số cụm: <i>look forward to, be used to, get used to, can't help, it's no use, ...</i>"
+      },
+      "exercises": [
+        {
+          "question": "He is good ____ (make) friends with strangers.",
+          "answer": "at making",
+          "type": "fill-blank"
+        },
+        {
+          "question": "I look forward ____ (hear) from you.",
+          "answer": "to hearing",
+          "type": "fill-blank"
+        },
+        {
+          "question": "They apologized ____ (be) late for the party.",
+          "answer": "for being",
+          "type": "fill-blank"
+        },
+        {
+          "question": "She is interested ____ making new friends.",
+          "options": [
+            "in",
+            "on",
+            "at",
+            "for"
+          ],
+          "answer": "A",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "They apologized ____ being late.",
+          "options": [
+            "in",
+            "on",
+            "at",
+            "for"
+          ],
+          "answer": "D",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Acquaintance",
+          "back": "Người quen",
+          "type": "flashcard"
+        },
+        {
+          "front": "Reconcile",
+          "back": "Hòa giải",
+          "type": "flashcard"
+        }
+      ]
+    },
+    {
+      "id": "11_u3",
+      "title": "Environmental Protection",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Pollution",
+            "pos": "n",
+            "meaning": "Ô nhiễm",
+            "ipa": "pəˈluːʃn"
+          },
+          {
+            "word": "Ecosystem",
+            "pos": "n",
+            "meaning": "Hệ sinh thái",
+            "ipa": "ˈiːkoʊsɪstəm"
+          },
+          {
+            "word": "Deforestation",
+            "pos": "n",
+            "meaning": "Phá rừng",
+            "ipa": "ˌdiːˌfɔːrɪˈsteɪʃn"
+          },
+          {
+            "word": "Conserve",
+            "pos": "v",
+            "meaning": "Bảo tồn",
+            "ipa": "kənˈsɜːrv"
+          },
+          {
+            "word": "Sustainable",
+            "pos": "adj",
+            "meaning": "Bền vững",
+            "ipa": "səˈsteɪnəbl"
+          }
+        ],
+        "grammar": "<b>Conditional Sentences Type 1:</b><br><br>• Diễn tả điều kiện có thật ở hiện tại/tương lai.<br>• Cấu trúc: <b>If + S + V(s/es), S + will + V-inf</b><br>  <i>Ex:</i> If we <u>protect</u> the environment, we <u>will have</u> a better future.<br>  <i>Ex:</i> If it <u>rains</u> tomorrow, the game <u>will be</u> cancelled."
+      },
+      "exercises": [
+        {
+          "question": "If we ____ (plant) more trees, the air ____ (be) cleaner.",
+          "answer": "plant / will be",
+          "type": "fill-blank"
+        },
+        {
+          "question": "If people ____ (stop) polluting, the ecosystem ____ (recover).",
+          "answer": "stop / will recover",
+          "type": "fill-blank"
+        },
+        {
+          "question": "If she ____ (recycle) paper, she ____ (help) save forests.",
+          "answer": "recycles / will help",
+          "type": "fill-blank"
+        },
+        {
+          "question": "If we ____ more trees, the air will be cleaner.",
+          "options": [
+            "plant",
+            "planted",
+            "will plant",
+            "would plant"
+          ],
+          "answer": "A",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "If it ____ tomorrow, the game will be cancelled.",
+          "options": [
+            "rains",
+            "rained",
+            "will rain",
+            "would rain"
+          ],
+          "answer": "A",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Ecosystem",
+          "back": "Hệ sinh thái",
+          "type": "flashcard"
+        },
+        {
+          "front": "Sustainable",
+          "back": "Bền vững",
+          "type": "flashcard"
+        }
+      ]
+    },
+    {
+      "id": "11_u4",
+      "title": "ASEAN Community",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Alliance",
+            "pos": "n",
+            "meaning": "Liên minh",
+            "ipa": "əˈlaɪəns"
+          },
+          {
+            "word": "Economy",
+            "pos": "n",
+            "meaning": "Kinh tế",
+            "ipa": "ɪˈkɑːnəmi"
+          },
+          {
+            "word": "Diplomacy",
+            "pos": "n",
+            "meaning": "Ngoại giao",
+            "ipa": "dɪˈploʊməsi"
+          },
+          {
+            "word": "Cooperation",
+            "pos": "n",
+            "meaning": "Hợp tác",
+            "ipa": "koʊˌɑːpəˈreɪʃn"
+          },
+          {
+            "word": "Solidarity",
+            "pos": "n",
+            "meaning": "Đoàn kết",
+            "ipa": "ˌsɑːlɪˈdærəti"
+          }
+        ],
+        "grammar": "<b>Tag Questions:</b><br><br>• Câu hỏi đuôi: khẳng định — phủ định, phủ định — khẳng định.<br>  <i>Ex:</i> ASEAN has 10 member states, <u>doesn't it</u>?<br>  <i>Ex:</i> Vietnam isn't a member of ASEAN, <u>is it</u>?<br>  <i>Ex:</i> You can speak English, <u>can't you</u>?"
+      },
+      "exercises": [
+        {
+          "question": "ASEAN promotes regional cooperation, ____?",
+          "answer": "doesn't it",
+          "type": "fill-blank"
+        },
+        {
+          "question": "You aren't from an ASEAN country, ____?",
+          "answer": "are you",
+          "type": "fill-blank"
+        },
+        {
+          "question": "They have joined the ASEAN summit, ____?",
+          "answer": "haven't they",
+          "type": "fill-blank"
+        },
+        {
+          "question": "ASEAN has 10 member states, ____?",
+          "options": [
+            "has it",
+            "doesn't it",
+            "is it",
+            "does it"
+          ],
+          "answer": "B",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "You can speak English, ____?",
+          "options": [
+            "can you",
+            "do you",
+            "can't you",
+            "don't you"
+          ],
+          "answer": "C",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Diplomacy",
+          "back": "Ngoại giao",
+          "type": "flashcard"
+        },
+        {
+          "front": "Solidarity",
+          "back": "Đoàn kết",
+          "type": "flashcard"
+        }
+      ]
+    },
+    {
+      "id": "11_u5",
+      "title": "Being Part of ASEAN",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Intergrate",
+            "pos": "v",
+            "meaning": "Hội nhập",
+            "ipa": "ˈɪntɪɡreɪt"
+          },
+          {
+            "word": "Cultural exchange",
+            "pos": "n",
+            "meaning": "Giao lưu văn hóa",
+            "ipa": "ˈkʌltʃərəl ɪksˈtʃeɪndʒ"
+          },
+          {
+            "word": "Member state",
+            "pos": "n",
+            "meaning": "Quốc gia thành viên",
+            "ipa": "ˈmembər steɪt"
+          },
+          {
+            "word": "Mutual",
+            "pos": "adj",
+            "meaning": "Tương hỗ",
+            "ipa": "ˈmjuːtʃuəl"
+          },
+          {
+            "word": "Prosperity",
+            "pos": "n",
+            "meaning": "Thịnh vượng",
+            "ipa": "prɑːˈsperəti"
+          }
+        ],
+        "grammar": "<b>Phrasal Verbs (cụm động từ):</b><br><br>• <b>Bring about:</b> mang lại<br>• <b>Carry out:</b> thực hiện<br>• <b>Set up:</b> thành lập<br>• <b>Turn up:</b> xuất hiện<br>• <b>Look after:</b> chăm sóc<br><br>  <i>Ex:</i> ASEAN <u>carries out</u> many cultural programs."
+      },
+      "exercises": [
+        {
+          "question": "The government will ____ (set up) a new trade agreement.",
+          "answer": "set up",
+          "type": "fill-blank"
+        },
+        {
+          "question": "We need to ____ (carry out) more research on this issue.",
+          "answer": "carry out",
+          "type": "fill-blank"
+        },
+        {
+          "question": "Bright future will ____ (bring about) positive changes.",
+          "answer": "bring about",
+          "type": "fill-blank"
+        },
+        {
+          "question": "The government will ____ a new trade agreement.",
+          "options": [
+            "set up",
+            "set in",
+            "set out",
+            "set off"
+          ],
+          "answer": "A",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "We need to ____ more research on this issue.",
+          "options": [
+            "carry in",
+            "carry out",
+            "carry on",
+            "carry over"
+          ],
+          "answer": "B",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Cultural exchange",
+          "back": "Giao lưu văn hóa",
+          "type": "flashcard"
+        },
+        {
+          "front": "Prosperity",
+          "back": "Thịnh vượng",
+          "type": "flashcard"
+        }
+      ]
+    },
+    {
+      "id": "11_u6",
+      "title": "Global Warming",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Emissions",
+            "pos": "n",
+            "meaning": "Khí thải",
+            "ipa": "ɪˈmɪʃnz"
+          },
+          {
+            "word": "Greenhouse effect",
+            "pos": "n",
+            "meaning": "Hiệu ứng nhà kính",
+            "ipa": "ˈɡriːnhaʊs ɪˈfekt"
+          },
+          {
+            "word": "Fossil fuel",
+            "pos": "n",
+            "meaning": "Nhiên liệu hóa thạch",
+            "ipa": "ˈfɑːsl ˈfjuːəl"
+          },
+          {
+            "word": "Carbon footprint",
+            "pos": "n",
+            "meaning": "Dấu chân carbon",
+            "ipa": "ˈkɑːrbən ˈfʊtprɪnt"
+          },
+          {
+            "word": "Renewable",
+            "pos": "adj",
+            "meaning": "Tái tạo",
+            "ipa": "rɪˈnuːəbl"
+          }
+        ],
+        "grammar": "<b>Conditional Sentences Type 2:</b><br><br>• Diễn tả điều kiện không có thật ở hiện tại.<br>• Cấu trúc: <b>If + S + V2/ed, S + would + V-inf</b><br>  <i>Ex:</i> If we <u>reduced</u> emissions, the temperature <u>wouldn't rise</u> so fast.<br>  <i>Ex:</i> If I <u>were</u> you, I <u>would use</u> renewable energy."
+      },
+      "exercises": [
+        {
+          "question": "If people ____ (use) less fossil fuel, the air ____ (be) cleaner.",
+          "answer": "used / would be",
+          "type": "fill-blank"
+        },
+        {
+          "question": "If I ____ (be) you, I ____ (switch) to solar energy.",
+          "answer": "were / would switch",
+          "type": "fill-blank"
+        },
+        {
+          "question": "The Earth ____ (not / be) so warm if we ____ (stop) deforestation.",
+          "answer": "wouldn't be / stopped",
+          "type": "fill-blank"
+        },
+        {
+          "question": "If people ____ less fossil fuel, the air would be cleaner.",
+          "options": [
+            "use",
+            "used",
+            "will use",
+            "would use"
+          ],
+          "answer": "B",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "If I ____ you, I would switch to solar energy.",
+          "options": [
+            "am",
+            "was",
+            "were",
+            "be"
+          ],
+          "answer": "C",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Emissions",
+          "back": "Khí thải",
+          "type": "flashcard"
+        },
+        {
+          "front": "Renewable",
+          "back": "Tái tạo",
+          "type": "flashcard"
+        }
+      ]
+    },
+    {
+      "id": "11_u7",
+      "title": "Further Education",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Scholarship",
+            "pos": "n",
+            "meaning": "Học bổng",
+            "ipa": "ˈskɑːlərʃɪp"
+          },
+          {
+            "word": "Bachelor's degree",
+            "pos": "n",
+            "meaning": "Bằng cử nhân",
+            "ipa": "ˈbætʃələrz dɪˈɡriː"
+          },
+          {
+            "word": "Master's degree",
+            "pos": "n",
+            "meaning": "Bằng thạc sĩ",
+            "ipa": "ˈmæstərz dɪˈɡriː"
+          },
+          {
+            "word": "Doctorate",
+            "pos": "n",
+            "meaning": "Tiến sĩ",
+            "ipa": "ˈdɑːktərət"
+          },
+          {
+            "word": "Major",
+            "pos": "n",
+            "meaning": "Chuyên ngành",
+            "ipa": "ˈmeɪdʒər"
+          }
+        ],
+        "grammar": "<b>Reported Speech (Câu tường thuật):</b><br><br>• <b>Câu khẳng định:</b> S + said/told + (that) + S + V(lùi thì)<br>  <i>Ex:</i> He said <u>(that)</u> he <u>would apply</u> for a scholarship.<br>• <b>Câu hỏi Yes/No:</b> S + asked + if/whether + S + V<br>  <i>Ex:</i> She asked if I <u>had</u> a bachelor's degree.<br>• Lùi thì: hiện tại → quá khứ, will → would, can → could"
+      },
+      "exercises": [
+        {
+          "question": "He said, \"I will study abroad.\" → He said that he ____ study abroad.",
+          "answer": "would",
+          "type": "fill-blank"
+        },
+        {
+          "question": "She asked, \"Do you have a scholarship?\" → She asked if I ____ a scholarship.",
+          "answer": "had",
+          "type": "fill-blank"
+        },
+        {
+          "question": "\"I am majoring in Economics,\" he said. → He said that he ____ in Economics.",
+          "answer": "was majoring",
+          "type": "fill-blank"
+        },
+        {
+          "question": "He said that he ____ study abroad.",
+          "options": [
+            "will",
+            "would",
+            "can",
+            "could"
+          ],
+          "answer": "B",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "She asked if I ____ a scholarship.",
+          "options": [
+            "have",
+            "had",
+            "has",
+            "having"
+          ],
+          "answer": "B",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Scholarship",
+          "back": "Học bổng",
+          "type": "flashcard"
+        },
+        {
+          "front": "Doctorate",
+          "back": "Tiến sĩ",
+          "type": "flashcard"
+        }
+      ]
+    },
+    {
+      "id": "11_u8",
+      "title": "The World of Work",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Career path",
+            "pos": "n",
+            "meaning": "Lộ trình sự nghiệp",
+            "ipa": "kəˈrɪr pæθ"
+          },
+          {
+            "word": "Internship",
+            "pos": "n",
+            "meaning": "Thực tập",
+            "ipa": "ˈɪntɜːrnʃɪp"
+          },
+          {
+            "word": "Resume",
+            "pos": "n",
+            "meaning": "Sơ yếu lí lịch",
+            "ipa": "rɪˈzuːm"
+          },
+          {
+            "word": "Interview",
+            "pos": "n",
+            "meaning": "Phỏng vấn",
+            "ipa": "ˈɪntərvjuː"
+          },
+          {
+            "word": "Promotion",
+            "pos": "n",
+            "meaning": "Thăng chức",
+            "ipa": "prəˈmoʊʃn"
+          }
+        ],
+        "grammar": "<b>Relative Clauses (who / whom / which / that):</b><br><br>• <b>Who:</b> chủ ngữ — chỉ người<br>  <i>Ex:</i> The manager <u>who</u> interviewed me was friendly.<br>• <b>Whom:</b> tân ngữ — chỉ người<br>  <i>Ex:</i> The person <u>whom</u> I met yesterday is my boss.<br>• <b>Which:</b> chỉ vật<br>  <i>Ex:</i> The company <u>which</u> offers the best benefits will attract talent."
+      },
+      "exercises": [
+        {
+          "question": "The woman ____ (who / she) gave me the job is very kind.",
+          "answer": "who",
+          "type": "fill-blank"
+        },
+        {
+          "question": "The company ____ (which / it) offers internships is hiring.",
+          "answer": "which",
+          "type": "fill-blank"
+        },
+        {
+          "question": "The colleague ____ (whom / I work with) is very supportive.",
+          "answer": "whom",
+          "type": "fill-blank"
+        },
+        {
+          "question": "The woman ____ gave me the job is very kind.",
+          "options": [
+            "which",
+            "whom",
+            "who",
+            "whose"
+          ],
+          "answer": "C",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "The company ____ offers internships is hiring.",
+          "options": [
+            "who",
+            "whom",
+            "which",
+            "whose"
+          ],
+          "answer": "C",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Internship",
+          "back": "Thực tập",
+          "type": "flashcard"
+        },
+        {
+          "front": "Promotion",
+          "back": "Thăng chức",
+          "type": "flashcard"
+        }
+      ]
+    }
+  ],
+  "12": [
+    {
+      "id": "12_u1",
+      "title": "Life Stories",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Inspire",
+            "pos": "v",
+            "meaning": "Truyền cảm hứng",
+            "ipa": "ɪnˈspaɪər"
+          },
+          {
+            "word": "Achievement",
+            "pos": "n",
+            "meaning": "Thành tựu",
+            "ipa": "əˈtʃiːvmənt"
+          },
+          {
+            "word": "Overcome",
+            "pos": "v",
+            "meaning": "Vượt qua",
+            "ipa": "ˌoʊvərˈkʌm"
+          },
+          {
+            "word": "Perseverance",
+            "pos": "n",
+            "meaning": "Sự kiên trì",
+            "ipa": "ˌpɜːrsəˈvɪrəns"
+          },
+          {
+            "word": "Biography",
+            "pos": "n",
+            "meaning": "Tiểu sử",
+            "ipa": "baɪˈɑːɡrəfi"
+          }
+        ],
+        "grammar": "<b>Past Simple vs. Past Continuous:</b><br><br>• <b>Past Simple:</b> hành động đã xảy ra và kết thúc trong quá khứ.<br>  <i>Ex:</i> She <u>graduated</u> in 2015.<br>• <b>Past Continuous:</b> hành động đang xảy ra tại một thời điểm trong quá khứ.<br>  <i>Ex:</i> At 8 PM yesterday, he <u>was preparing</u> for his speech.<br>• Kết hợp: <b>When + Past Simple, Past Continuous</b> (hành động ngắn xen vào hành động dài).<br>  <i>Ex:</i> When I <u>arrived</u>, she <u>was giving</u> a presentation."
+      },
+      "exercises": [
+        {
+          "question": "Yesterday, I ____ (meet) a famous artist.",
+          "answer": "met",
+          "type": "fill-blank"
+        },
+        {
+          "question": "At 5 PM, she ____ (prepare) for her biography interview.",
+          "answer": "was preparing",
+          "type": "fill-blank"
+        },
+        {
+          "question": "When I ____ (call) him, he ____ (write) his memoir.",
+          "answer": "called / was writing",
+          "type": "fill-blank"
+        },
+        {
+          "question": "She ____ in 2015.",
+          "options": [
+            "graduate",
+            "graduated",
+            "was graduating",
+            "has graduated"
+          ],
+          "answer": "B",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "When I arrived, she ____ a presentation.",
+          "options": [
+            "gives",
+            "gave",
+            "was giving",
+            "has given"
+          ],
+          "answer": "C",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Inspire",
+          "back": "Truyền cảm hứng",
+          "type": "flashcard"
+        },
+        {
+          "front": "Perseverance",
+          "back": "Sự kiên trì",
+          "type": "flashcard"
+        }
+      ]
+    },
+    {
+      "id": "12_u2",
+      "title": "Urbanisation",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Urbanisation",
+            "pos": "n",
+            "meaning": "Đô thị hóa",
+            "ipa": "ˌɜːrbənɪˈzeɪʃn"
+          },
+          {
+            "word": "Migrant",
+            "pos": "n",
+            "meaning": "Người di cư",
+            "ipa": "ˈmaɪɡrənt"
+          },
+          {
+            "word": "Infrastructure",
+            "pos": "n",
+            "meaning": "Cơ sở hạ tầng",
+            "ipa": "ˈɪnfrəstrʌktʃər"
+          },
+          {
+            "word": "Overcrowding",
+            "pos": "n",
+            "meaning": "Quá tải dân số",
+            "ipa": "ˌoʊvərˈkraʊdɪŋ"
+          },
+          {
+            "word": "Slum",
+            "pos": "n",
+            "meaning": "Khu ổ chuột",
+            "ipa": "slʌm"
+          }
+        ],
+        "grammar": "<b>Articles: a / an / the / (no article):</b><br><br>• <b>A/an:</b> danh từ đếm được số ít, nhắc đến lần đầu.<br>  <i>Ex:</i> There is <u>a</u> new hospital in the city.<br>• <b>The:</b> đã xác định, duy nhất, hoặc nhắc lại.<br>  <i>Ex:</i> <u>The</u> infrastructure needs improvement.<br>• <b>No article:</b> danh từ số nhiều/không đếm được nói chung.<br>  <i>Ex:</i> Cities attract <u>∅</u> migrants from rural areas."
+      },
+      "exercises": [
+        {
+          "question": "There is ____ university in the city center.",
+          "answer": "a",
+          "type": "fill-blank"
+        },
+        {
+          "question": "____ infrastructure in big cities must be improved.",
+          "answer": "The",
+          "type": "fill-blank"
+        },
+        {
+          "question": "Many people move to ____ cities for better opportunities.",
+          "answer": "∅ (no article)",
+          "type": "fill-blank"
+        },
+        {
+          "question": "There is ____ university in the city center.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ],
+          "answer": "A",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "____ infrastructure in big cities must be improved.",
+          "options": [
+            "A",
+            "An",
+            "The",
+            "No article"
+          ],
+          "answer": "C",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Urbanisation",
+          "back": "Đô thị hóa",
+          "type": "flashcard"
+        },
+        {
+          "front": "Infrastructure",
+          "back": "Cơ sở hạ tầng",
+          "type": "flashcard"
+        }
+      ]
+    },
+    {
+      "id": "12_u3",
+      "title": "The Future of Our Planet",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Overpopulation",
+            "pos": "n",
+            "meaning": "Quá tải dân số",
+            "ipa": "ˌoʊvərˌpɑːpjuˈleɪʃn"
+          },
+          {
+            "word": "Extinction",
+            "pos": "n",
+            "meaning": "Tuyệt chủng",
+            "ipa": "ɪkˈstɪŋkʃn"
+          },
+          {
+            "word": "Climate change",
+            "pos": "n",
+            "meaning": "Biến đổi khí hậu",
+            "ipa": "ˈklaɪmət tʃeɪndʒ"
+          },
+          {
+            "word": "Conservation",
+            "pos": "n",
+            "meaning": "Bảo tồn",
+            "ipa": "ˌkɑːnsərˈveɪʃn"
+          },
+          {
+            "word": "Eco-friendly",
+            "pos": "adj",
+            "meaning": "Thân thiện môi trường",
+            "ipa": "ˈiːkoʊ ˈfrendli"
+          }
+        ],
+        "grammar": "<b>Future Tenses:</b><br><br>• <b>Will:</b> quyết định tức thì, dự đoán không có bằng chứng.<br>  <i>Ex:</i> I think humans <u>will</u> find a solution.<br>• <b>Be going to:</b> dự định từ trước, dự đoán có bằng chứng.<br>  <i>Ex:</i> Look at the pollution levels! The planet <u>is going to</u> suffer.<br>• <b>Present Continuous:</b> sắp xếp chắc chắn trong tương lai gần.<br>  <i>Ex:</i> They <u>are launching</u> a new conservation campaign next week."
+      },
+      "exercises": [
+        {
+          "question": "I believe we ____ (find) a solution to climate change.",
+          "answer": "will find",
+          "type": "fill-blank"
+        },
+        {
+          "question": "They ____ (launch) a recycling program next month.",
+          "answer": "are launching",
+          "type": "fill-blank"
+        },
+        {
+          "question": "Look at the melting ice caps! The temperature ____ (rise).",
+          "answer": "is going to rise",
+          "type": "fill-blank"
+        },
+        {
+          "question": "I think humans ____ find a solution.",
+          "options": [
+            "will",
+            "are going to",
+            "are",
+            "have"
+          ],
+          "answer": "A",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "They ____ a recycling program next month.",
+          "options": [
+            "will launch",
+            "are launching",
+            "launch",
+            "have launched"
+          ],
+          "answer": "B",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Extinction",
+          "back": "Tuyệt chủng",
+          "type": "flashcard"
+        },
+        {
+          "front": "Conservation",
+          "back": "Bảo tồn",
+          "type": "flashcard"
+        }
+      ]
+    },
+    {
+      "id": "12_u4",
+      "title": "The Mass Media",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Journalism",
+            "pos": "n",
+            "meaning": "Báo chí",
+            "ipa": "ˈdʒɜːrnəlɪzəm"
+          },
+          {
+            "word": "Broadcast",
+            "pos": "v",
+            "meaning": "Phát sóng",
+            "ipa": "ˈbrɔːdkæst"
+          },
+          {
+            "word": "Headline",
+            "pos": "n",
+            "meaning": "Tiêu đề",
+            "ipa": "ˈhedlaɪn"
+          },
+          {
+            "word": "Article",
+            "pos": "n",
+            "meaning": "Bài báo",
+            "ipa": "ˈɑːrtɪkl"
+          },
+          {
+            "word": "Social media",
+            "pos": "n",
+            "meaning": "Mạng xã hội",
+            "ipa": "ˈsoʊʃl ˈmiːdiə"
+          }
+        ],
+        "grammar": "<b>Passive Voice (nâng cao):</b><br><br>• <b>Hiện tại hoàn thành:</b> have/has been + V3/ed<br>  <i>Ex:</i> The news <u>has been broadcast</u> on all channels.<br>• <b>Tương lai:</b> will be + V3/ed<br>  <i>Ex:</i> The article <u>will be published</u> tomorrow.<br>• <b>Động từ khiếm khuyết:</b> modal + be + V3/ed<br>  <i>Ex:</i> Information <u>should be verified</u> before sharing."
+      },
+      "exercises": [
+        {
+          "question": "The article ____ (write) by a famous journalist.",
+          "answer": "was written",
+          "type": "fill-blank"
+        },
+        {
+          "question": "Fake news ____ (should / avoid) by everyone.",
+          "answer": "should be avoided",
+          "type": "fill-blank"
+        },
+        {
+          "question": "The show ____ (cancel) due to low ratings.",
+          "answer": "was cancelled",
+          "type": "fill-blank"
+        },
+        {
+          "question": "The news ____ on all channels.",
+          "options": [
+            "has broadcast",
+            "has been broadcast",
+            "was broadcasted",
+            "is broadcast"
+          ],
+          "answer": "B",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "Fake news ____ by everyone.",
+          "options": [
+            "should avoid",
+            "should be avoided",
+            "should be avoid",
+            "should avoided"
+          ],
+          "answer": "B",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Journalism",
+          "back": "Báo chí",
+          "type": "flashcard"
+        },
+        {
+          "front": "Headline",
+          "back": "Tiêu đề",
+          "type": "flashcard"
+        }
+      ]
+    },
+    {
+      "id": "12_u5",
+      "title": "Cultural Identity",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Identity",
+            "pos": "n",
+            "meaning": "Bản sắc",
+            "ipa": "aɪˈdentəti"
+          },
+          {
+            "word": "Indigenous",
+            "pos": "adj",
+            "meaning": "Bản địa",
+            "ipa": "ɪnˈdɪdʒənəs"
+          },
+          {
+            "word": "Ancestor",
+            "pos": "n",
+            "meaning": "Tổ tiên",
+            "ipa": "ˈænsestər"
+          },
+          {
+            "word": "Ritual",
+            "pos": "n",
+            "meaning": "Nghi lễ",
+            "ipa": "ˈrɪtʃuəl"
+          },
+          {
+            "word": "Assimilate",
+            "pos": "v",
+            "meaning": "Đồng hóa",
+            "ipa": "əˈsɪməleɪt"
+          }
+        ],
+        "grammar": "<b>Conjunctions: either...or / neither...nor / both...and / not only...but also:</b><br><br>• <b>Either...or:</b> hoặc...hoặc<br>  <i>Ex:</i> You can <u>either</u> preserve <u>or</u> lose your cultural identity.<br>• <b>Neither...nor:</b> không...cũng không<br>  <i>Ex:</i> <u>Neither</u> language <u>nor</u> customs should be forgotten.<br>• <b>Both...and:</b> cả...và<br>  <i>Ex:</i> <u>Both</u> traditions <u>and</u> modernity can coexist."
+      },
+      "exercises": [
+        {
+          "question": "We should ____ preserve ____ promote our cultural heritage.",
+          "answer": "both / and",
+          "type": "fill-blank"
+        },
+        {
+          "question": "You can ____ learn from the past ____ embrace the future.",
+          "answer": "either / or",
+          "type": "fill-blank"
+        },
+        {
+          "question": "____ language ____ traditions define who we are.",
+          "answer": "Both / and",
+          "type": "fill-blank"
+        },
+        {
+          "question": "You can ____ preserve ____ lose your cultural identity.",
+          "options": [
+            "both / and",
+            "either / or",
+            "neither / nor",
+            "not only / but also"
+          ],
+          "answer": "B",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "____ language ____ customs should be forgotten.",
+          "options": [
+            "Both / and",
+            "Either / or",
+            "Neither / nor",
+            "Not only / but also"
+          ],
+          "answer": "C",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Identity",
+          "back": "Bản sắc",
+          "type": "flashcard"
+        },
+        {
+          "front": "Ritual",
+          "back": "Nghi lễ",
+          "type": "flashcard"
+        }
+      ]
+    },
+    {
+      "id": "12_u6",
+      "title": "Endangered Species",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Habitat",
+            "pos": "n",
+            "meaning": "Môi trường sống",
+            "ipa": "ˈhæbɪtæt"
+          },
+          {
+            "word": "Poaching",
+            "pos": "n",
+            "meaning": "Săn trộm",
+            "ipa": "ˈpoʊtʃɪŋ"
+          },
+          {
+            "word": "Biodiversity",
+            "pos": "n",
+            "meaning": "Đa dạng sinh học",
+            "ipa": "ˌbaɪoʊdaɪˈvɜːrsəti"
+          },
+          {
+            "word": "Endangered",
+            "pos": "adj",
+            "meaning": "Có nguy cơ tuyệt chủng",
+            "ipa": "ɪnˈdeɪndʒərd"
+          },
+          {
+            "word": "Reserve",
+            "pos": "n",
+            "meaning": "Khu bảo tồn",
+            "ipa": "rɪˈzɜːrv"
+          }
+        ],
+        "grammar": "<b>Relative Clauses (defining vs. non-defining):</b><br><br>• <b>Defining:</b> xác định — không có dấu phẩy, không thể bỏ.<br>  <i>Ex:</i> Animals <u>that are poached</u> may become extinct.<br>• <b>Non-defining:</b> bổ sung — có dấu phẩy, có thể bỏ.<br>  <i>Ex:</i> Elephants, <u>which are the largest land animals</u>, are endangered."
+      },
+      "exercises": [
+        {
+          "question": "The species ____ (that / are found) in this forest are rare.",
+          "answer": "that are found",
+          "type": "fill-blank"
+        },
+        {
+          "question": "The tiger, ____ (which / is the largest cat), is endangered.",
+          "answer": "which is",
+          "type": "fill-blank"
+        },
+        {
+          "question": "Poachers ____ (who / hunt) illegally should be punished.",
+          "answer": "who hunt",
+          "type": "fill-blank"
+        },
+        {
+          "question": "Animals ____ are poached may become extinct.",
+          "options": [
+            "which",
+            "who",
+            "that",
+            "whom"
+          ],
+          "answer": "C",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "Elephants, ____ are the largest land animals, are endangered.",
+          "options": [
+            "that",
+            "which",
+            "who",
+            "whom"
+          ],
+          "answer": "B",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Habitat",
+          "back": "Môi trường sống",
+          "type": "flashcard"
+        },
+        {
+          "front": "Biodiversity",
+          "back": "Đa dạng sinh học",
+          "type": "flashcard"
+        }
+      ]
+    },
+    {
+      "id": "12_u7",
+      "title": "Economic Reforms",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Reform",
+            "pos": "n/v",
+            "meaning": "Cải cách",
+            "ipa": "rɪˈfɔːrm"
+          },
+          {
+            "word": "Subsidy",
+            "pos": "n",
+            "meaning": "Trợ cấp",
+            "ipa": "ˈsʌbsɪdi"
+          },
+          {
+            "word": "Privatisation",
+            "pos": "n",
+            "meaning": "Tư nhân hóa",
+            "ipa": "ˌpraɪvətaɪˈzeɪʃn"
+          },
+          {
+            "word": "GDP (Gross Domestic Product)",
+            "pos": "n",
+            "meaning": "GDP",
+            "ipa": "dʒiː diː piː"
+          },
+          {
+            "word": "Investment",
+            "pos": "n",
+            "meaning": "Đầu tư",
+            "ipa": "ɪnˈvestmənt"
+          }
+        ],
+        "grammar": "<b>Adverbial Clauses of Concession:</b><br><br>• <b>Although / Even though / Though:</b> mặc dù<br>  <i>Ex:</i> <u>Although</u> the economy faced difficulties, reforms helped it recover.<br>• <b>Despite / In spite of:</b> mặc dù (có + N/V-ing)<br>  <i>Ex:</i> <u>Despite</u> initial challenges, the reforms succeeded.<br>  <i>Ex:</i> The country grew <u>in spite of</u> global recession."
+      },
+      "exercises": [
+        {
+          "question": "____ the reforms were difficult, they brought prosperity.",
+          "answer": "Although",
+          "type": "fill-blank"
+        },
+        {
+          "question": "____ (despite) the challenges, the economy grew steadily.",
+          "answer": "Despite",
+          "type": "fill-blank"
+        },
+        {
+          "question": "____ (even though) inflation was high, exports increased.",
+          "answer": "Even though",
+          "type": "fill-blank"
+        },
+        {
+          "question": "____ the reforms were difficult, they brought prosperity.",
+          "options": [
+            "Despite",
+            "In spite of",
+            "Although",
+            "Because"
+          ],
+          "answer": "C",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "____ initial challenges, the reforms succeeded.",
+          "options": [
+            "Although",
+            "Even though",
+            "Despite",
+            "Because of"
+          ],
+          "answer": "C",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Reform",
+          "back": "Cải cách",
+          "type": "flashcard"
+        },
+        {
+          "front": "Investment",
+          "back": "Đầu tư",
+          "type": "flashcard"
+        }
+      ]
+    },
+    {
+      "id": "12_u8",
+      "title": "The World of Work (Advanced)",
+      "theory": {
+        "vocabulary": [
+          {
+            "word": "Unemployment",
+            "pos": "n",
+            "meaning": "Thất nghiệp",
+            "ipa": "ˌʌnɪmˈplɔɪmənt"
+          },
+          {
+            "word": "Workforce",
+            "pos": "n",
+            "meaning": "Lực lượng lao động",
+            "ipa": "ˈwɜːrkfɔːrs"
+          },
+          {
+            "word": "Automation",
+            "pos": "n",
+            "meaning": "Tự động hóa",
+            "ipa": "ˌɔːtəˈmeɪʃn"
+          },
+          {
+            "word": "Flexible",
+            "pos": "adj",
+            "meaning": "Linh hoạt",
+            "ipa": "ˈfleksəbl"
+          },
+          {
+            "word": "Entrepreneurship",
+            "pos": "n",
+            "meaning": "Tinh thần khởi nghiệp",
+            "ipa": "ˌɑːntrəprəˈnɜːrʃɪp"
+          }
+        ],
+        "grammar": "<b>Conditional Sentences Type 3:</b><br><br>• Diễn tả điều kiện không có thật trong quá khứ.<br>• Cấu trúc: <b>If + S + had + V3/ed, S + would/could + have + V3/ed</b><br>  <i>Ex:</i> If we <u>had invested</u> in technology, we <u>would have created</u> more jobs.<br>  <i>Ex:</i> If he <u>had taken</u> that job, he <u>would have earned</u> more."
+      },
+      "exercises": [
+        {
+          "question": "If we ____ (invest) in automation, we ____ (not / lose) those jobs.",
+          "answer": "had invested / wouldn't have lost",
+          "type": "fill-blank"
+        },
+        {
+          "question": "If she ____ (accept) the offer, she ____ (work) for a multinational company.",
+          "answer": "had accepted / would have worked",
+          "type": "fill-blank"
+        },
+        {
+          "question": "They ____ (succeed) if they ____ (follow) the business plan.",
+          "answer": "would have succeeded / had followed",
+          "type": "fill-blank"
+        },
+        {
+          "question": "If we ____ in technology, we would have created more jobs.",
+          "options": [
+            "invested",
+            "had invested",
+            "have invested",
+            "were investing"
+          ],
+          "answer": "B",
+          "type": "multiple-choice"
+        },
+        {
+          "question": "If he ____ that job, he would have earned more.",
+          "options": [
+            "took",
+            "had taken",
+            "has taken",
+            "would take"
+          ],
+          "answer": "B",
+          "type": "multiple-choice"
+        },
+        {
+          "front": "Unemployment",
+          "back": "Thất nghiệp",
+          "type": "flashcard"
+        },
+        {
+          "front": "Entrepreneurship",
+          "back": "Tinh thần khởi nghiệp",
+          "type": "flashcard"
+        }
+      ]
+    }
+  ]
+}

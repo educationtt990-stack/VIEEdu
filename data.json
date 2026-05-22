@@ -1,0 +1,1186 @@
+{
+    "Lớp 10": {
+        "Toán": {
+            "Mệnh đề": {
+                "Bài 1: Mệnh đề Toán học": {
+                    "emoji": "📋",
+                    "mô_tả": "Mệnh đề · Mệnh đề chứa biến · Phủ định",
+                    "theory": [
+                        {
+                            "title": "📌 Mệnh đề là gì?",
+                            "content": "Mệnh đề là một câu khẳng định đúng hoặc sai.\n\nMột câu khẳng định đúng gọi là mệnh đề đúng.\nMột câu khẳng định sai gọi là mệnh đề sai.\n\nVí dụ:\n• \"3 là số nguyên tố\" → Mệnh đề đúng ✓\n• \"1 + 1 = 3\" → Mệnh đề sai ✗"
+                        },
+                        {
+                            "title": "🔀 Mệnh đề chứa biến",
+                            "content": "Mệnh đề chứa biến là câu khẳng định phụ thuộc vào biến.\n\nVí dụ: \"n chia hết cho 2\" (với n là số tự nhiên)\n• n = 4 → Đúng\n• n = 5 → Sai\n\nĐây là một mệnh đề chứa biến, ký hiệu P(n)."
+                        },
+                        {
+                            "title": "🚫 Phủ định của mệnh đề",
+                            "content": "Phủ định của mệnh đề P ký hiệu là ¬P.\n• Nếu P đúng thì ¬P sai\n• Nếu P sai thì ¬P đúng\n\nVí dụ:\nP: \"5 là số chẵn\" (Sai)\n¬P: \"5 không là số chẵn\" (Đúng)"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "question": "Câu nào sau đây là mệnh đề?",
+                            "options": [
+                                "Bạn có khỏe không?",
+                                "3 là số lẻ",
+                                "Học đi!",
+                                "x + 1 = 2"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "Phủ định của \"7 là số nguyên tố\" là?",
+                            "options": [
+                                "7 không là số nguyên tố",
+                                "7 là hợp số",
+                                "7 là số chẵn",
+                                "7 > 5"
+                            ],
+                            "answer": 0
+                        },
+                        {
+                            "question": "Cho mệnh đề P: \"3 + 3 = 7\". P là mệnh đề?",
+                            "options": [
+                                "Đúng",
+                                "Sai",
+                                "Không xác định",
+                                "Mệnh đề chứa biến"
+                            ],
+                            "answer": 1
+                        }
+                    ],
+                    "practice": [
+                        {
+                            "question": "Câu nào không phải mệnh đề?",
+                            "options": [
+                                "2 + 2 = 4",
+                                "3 < 1",
+                                "Bao giờ bạn đi?",
+                                "Hà Nội là thủ đô"
+                            ],
+                            "answer": 2,
+                            "difficulty": "easy"
+                        },
+                        {
+                            "question": "Lập mệnh đề phủ định: ∀x ∈ ℝ, x² ≥ 0",
+                            "options": [
+                                "∃x ∈ ℝ, x² < 0",
+                                "∀x ∈ ℝ, x² ≤ 0",
+                                "∃x ∈ ℝ, x² = 0",
+                                "∀x ∈ ℝ, x² > 0"
+                            ],
+                            "answer": 0,
+                            "difficulty": "medium"
+                        },
+                        {
+                            "question": "Mệnh đề \"15 chia hết cho 3\" là?",
+                            "options": [
+                                "Đúng",
+                                "Sai",
+                                "Không xác định",
+                                "Mệnh đề chứa biến"
+                            ],
+                            "answer": 0,
+                            "difficulty": "hard"
+                        }
+                    ]
+                },
+                "Bài 2: Tập hợp": {
+                    "emoji": "📊",
+                    "mô_tả": "Tập hợp · Phần tử · Các phép toán",
+                    "theory": [
+                        {
+                            "title": "📦 Tập hợp là gì?",
+                            "content": "Tập hợp là khái niệm cơ bản của Toán học.\n\nCó hai cách biểu diễn tập hợp:\n1. Liệt kê phần tử: A = {1, 2, 3}\n2. Chỉ ra tính chất: A = {x | x ∈ ℕ, x < 4}\n\nKý hiệu: a ∈ A (a thuộc A), a ∉ A (a không thuộc A)."
+                        },
+                        {
+                            "title": "🔄 Các phép toán tập hợp",
+                            "content": "• Hợp: A ∪ B = {x | x ∈ A hoặc x ∈ B}\n• Giao: A ∩ B = {x | x ∈ A và x ∈ B}\n• Hiệu: A \\ B = {x | x ∈ A và x ∉ B}\n• Phần bù: C_E A = E \\ A\n\nVí dụ: A = {1,2,3}, B = {2,3,4}\nA ∪ B = {1,2,3,4}\nA ∩ B = {2,3}"
+                        },
+                        {
+                            "title": "📐 Các tập hợp số",
+                            "content": "• ℕ = {0, 1, 2, 3, …} — Tập số tự nhiên\n• ℤ = {…, -2, -1, 0, 1, 2, …} — Tập số nguyên\n• ℚ = {a/b | a,b ∈ ℤ, b≠0} — Tập số hữu tỉ\n• ℝ = {x | -∞ < x < +∞} — Tập số thực\n\nℕ ⊂ ℤ ⊂ ℚ ⊂ ℝ"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "question": "Cho A = {1, 2, 3, 4}. Phần tử nào không thuộc A?",
+                            "options": [
+                                "1",
+                                "3",
+                                "5",
+                                "2"
+                            ],
+                            "answer": 2
+                        },
+                        {
+                            "question": "A = {1,3,5}, B = {3,5,7}. A ∩ B = ?",
+                            "options": [
+                                "{1,3,5,7}",
+                                "{3,5}",
+                                "{1,7}",
+                                "∅"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "Tập nào là tập con của ℝ?",
+                            "options": [
+                                "ℕ",
+                                "ℤ",
+                                "ℚ",
+                                "Tất cả đều đúng"
+                            ],
+                            "answer": 3
+                        }
+                    ],
+                    "practice": [
+                        {
+                            "question": "A = {x ∈ ℕ | x < 5}. Số phần tử của A?",
+                            "options": [
+                                "3",
+                                "4",
+                                "5",
+                                "6"
+                            ],
+                            "answer": 2,
+                            "difficulty": "easy"
+                        },
+                        {
+                            "question": "Cho A = {1,2,3,4,5}, B = {2,4,6}. A \\ B = ?",
+                            "options": [
+                                "{1,3,5}",
+                                "{2,4}",
+                                "{6}",
+                                "∅"
+                            ],
+                            "answer": 0,
+                            "difficulty": "medium"
+                        },
+                        {
+                            "question": "Ký hiệu nào đúng?",
+                            "options": [
+                                "2 ⊂ ℕ",
+                                "{2} ∈ ℕ",
+                                "2 ∈ ℕ",
+                                "2 ⊆ ℕ"
+                            ],
+                            "answer": 2,
+                            "difficulty": "hard"
+                        }
+                    ]
+                }
+            },
+            "Hàm số và Đồ thị": {
+                "Bài 1: Hàm số bậc nhất": {
+                    "emoji": "📈",
+                    "mô_tả": "Hàm số · TXĐ · Đồ thị hàm số bậc nhất",
+                    "theory": [
+                        {
+                            "title": "📈 Hàm số là gì?",
+                            "content": "Hàm số f từ tập X vào tập Y là quy tắc cho mỗi x ∈ X tương ứng đúng một y ∈ Y.\nKý hiệu: y = f(x)\n\nTập X gọi là tập xác định (TXĐ).\ny gọi là giá trị của hàm số tại x.\n\nVí dụ: f(x) = 2x + 1\n• f(0) = 1, f(1) = 3, f(-1) = -1"
+                        },
+                        {
+                            "title": "📏 Hàm số bậc nhất",
+                            "content": "Hàm số bậc nhất có dạng: y = ax + b (a ≠ 0)\n• a: hệ số góc\n• b: tung độ gốc\n\nĐồ thị là một đường thẳng.\n• a > 0: hàm số đồng biến\n• a < 0: hàm số nghịch biến\n\nVí dụ: y = 2x + 1 có a = 2 > 0 → đồng biến"
+                        },
+                        {
+                            "title": "🎯 Cách vẽ đồ thị hàm số bậc nhất",
+                            "content": "Đồ thị hàm số y = ax + b là đường thẳng đi qua:\n• Điểm A(0, b) — giao với trục Oy\n• Điểm B(-b/a, 0) — giao với trục Ox\n\nBước 1: Xác định A(0, b)\nBước 2: Xác định B(-b/a, 0)\nBước 3: Nối A và B\n\nVí dụ: y = 2x + 1\nA(0,1), B(-1/2, 0)"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "question": "Hàm số y = 3x - 2 có hệ số góc là?",
+                            "options": [
+                                "3",
+                                "-2",
+                                "1",
+                                "0"
+                            ],
+                            "answer": 0
+                        },
+                        {
+                            "question": "Hàm số y = -x + 4 đồng biến hay nghịch biến?",
+                            "options": [
+                                "Đồng biến",
+                                "Nghịch biến",
+                                "Không đổi",
+                                "Không xác định"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "Đồ thị hàm số y = 2x + 1 đi qua điểm nào?",
+                            "options": [
+                                "(0, 0)",
+                                "(0, 1)",
+                                "(1, 0)",
+                                "(2, 0)"
+                            ],
+                            "answer": 1
+                        }
+                    ],
+                    "practice": [
+                        {
+                            "question": "Tìm f(2) biết f(x) = 3x - 5",
+                            "options": [
+                                "1",
+                                "2",
+                                "3",
+                                "4"
+                            ],
+                            "answer": 0,
+                            "difficulty": "easy"
+                        },
+                        {
+                            "question": "Hàm số y = ax + b đi qua A(0,3) và B(1,5). a = ?",
+                            "options": [
+                                "1",
+                                "2",
+                                "3",
+                                "4"
+                            ],
+                            "answer": 1,
+                            "difficulty": "medium"
+                        },
+                        {
+                            "question": "Giao điểm của y = x + 2 với trục Ox là?",
+                            "options": [
+                                "(0, 2)",
+                                "(-2, 0)",
+                                "(2, 0)",
+                                "(0, -2)"
+                            ],
+                            "answer": 1,
+                            "difficulty": "hard"
+                        }
+                    ]
+                },
+                "Bài 2: Hàm số bậc hai": {
+                    "emoji": "🔄",
+                    "mô_tả": "Parabol · Đỉnh · Trục đối xứng",
+                    "theory": [
+                        {
+                            "title": "📐 Hàm số bậc hai",
+                            "content": "Hàm số bậc hai có dạng: y = ax² + bx + c (a ≠ 0)\n\nĐồ thị là một đường parabol.\n• a > 0: bề lõm quay lên\n• a < 0: bề lõm quay xuống\n\nĐỉnh parabol: I(-b/(2a), -Δ/(4a))\nTrục đối xứng: x = -b/(2a)"
+                        },
+                        {
+                            "title": "📊 Cách vẽ parabol",
+                            "content": "Bước 1: Xác định tọa độ đỉnh I\nBước 2: Vẽ trục đối xứng\nBước 3: Tìm giao điểm với trục Oy (x = 0)\nBước 4: Tìm giao điểm với trục Ox (y = 0) — nếu có\nBước 5: Lấy thêm một số điểm đối xứng qua trục\n\nVí dụ: y = x² - 2x + 1\n• Đỉnh I(1, 0)\n• Trục đối xứng x = 1"
+                        },
+                        {
+                            "title": "🔍 Chiều biến thiên",
+                            "content": "Với a > 0:\n• Hàm số nghịch biến trên (-∞, -b/(2a))\n• Hàm số đồng biến trên (-b/(2a), +∞)\n\nVới a < 0:\n• Hàm số đồng biến trên (-∞, -b/(2a))\n• Hàm số nghịch biến trên (-b/(2a), +∞)\n\nGiá trị nhỏ nhất / lớn nhất đạt tại đỉnh I."
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "question": "Đỉnh của parabol y = x² - 4x + 3 là?",
+                            "options": [
+                                "I(2, -1)",
+                                "I(-2, -1)",
+                                "I(2, 1)",
+                                "I(-2, 1)"
+                            ],
+                            "answer": 0
+                        },
+                        {
+                            "question": "Parabol y = -x² + 2x có bề lõm quay?",
+                            "options": [
+                                "Lên trên",
+                                "Xuống dưới",
+                                "Sang trái",
+                                "Sang phải"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "Trục đối xứng của y = 2x² + 4x + 1 là?",
+                            "options": [
+                                "x = 1",
+                                "x = -1",
+                                "x = 2",
+                                "x = -2"
+                            ],
+                            "answer": 1
+                        }
+                    ],
+                    "practice": [
+                        {
+                            "question": "Tìm giá trị nhỏ nhất của y = x² - 2x + 3",
+                            "options": [
+                                "0",
+                                "1",
+                                "2",
+                                "3"
+                            ],
+                            "answer": 2,
+                            "difficulty": "easy"
+                        },
+                        {
+                            "question": "Parabol y = x² + 2x - 3 cắt Ox tại điểm nào?",
+                            "options": [
+                                "(1,0) và (-3,0)",
+                                "(-1,0) và (3,0)",
+                                "(0,-3)",
+                                "Không cắt"
+                            ],
+                            "answer": 0,
+                            "difficulty": "medium"
+                        },
+                        {
+                            "question": "Cho y = x² + bx + c đi qua A(0,3) và đỉnh I(1,2). b² + c² = ?",
+                            "options": [
+                                "5",
+                                "10",
+                                "13",
+                                "18"
+                            ],
+                            "answer": 2,
+                            "difficulty": "hard"
+                        }
+                    ]
+                }
+            },
+            "Tam thức bậc hai": {
+                "Bài 1: Dấu của tam thức bậc hai": {
+                    "emoji": "📉",
+                    "mô_tả": "Tam thức · Xét dấu · Bảng xét dấu",
+                    "theory": [
+                        {
+                            "title": "📌 Tam thức bậc hai",
+                            "content": "Tam thức bậc hai có dạng: f(x) = ax² + bx + c (a ≠ 0)\n\nBiệt thức: Δ = b² - 4ac\n\nDấu của f(x) phụ thuộc vào Δ và a:\n• Δ < 0: f(x) cùng dấu với a với mọi x\n• Δ = 0: f(x) cùng dấu với a với mọi x ≠ -b/(2a)\n• Δ > 0: f(x) có hai nghiệm phân biệt"
+                        },
+                        {
+                            "title": "📊 Quy tắc xét dấu (Δ > 0)",
+                            "content": "Khi Δ > 0, f(x) = a(x - x₁)(x - x₂) với x₁ < x₂\n\n• x < x₁: f(x) cùng dấu với a\n• x₁ < x < x₂: f(x) trái dấu với a\n• x > x₂: f(x) cùng dấu với a\n\nQuy tắc: \"Trong trái, ngoài cùng\" — trong khoảng hai nghiệm thì trái dấu a, ngoài khoảng thì cùng dấu a."
+                        },
+                        {
+                            "title": "📝 Các bước xét dấu tam thức",
+                            "content": "Bước 1: Tính Δ = b² - 4ac\nBước 2: Nếu Δ > 0, tìm hai nghiệm x₁, x₂\nBước 3: Lập bảng xét dấu\n\nVí dụ: f(x) = x² - 3x + 2\n• Δ = 9 - 8 = 1 > 0\n• x₁ = 1, x₂ = 2\n• a = 1 > 0\n• x < 1: f(x) > 0\n• 1 < x < 2: f(x) < 0\n• x > 2: f(x) > 0"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "question": "Tam thức f(x) = x² - 5x + 6 có Δ bằng?",
+                            "options": [
+                                "1",
+                                "2",
+                                "3",
+                                "4"
+                            ],
+                            "answer": 0
+                        },
+                        {
+                            "question": "f(x) = x² + 2x + 3 có dấu như thế nào?",
+                            "options": [
+                                "Luôn dương",
+                                "Luôn âm",
+                                "Cả dương và âm",
+                                "Bằng 0"
+                            ],
+                            "answer": 0
+                        },
+                        {
+                            "question": "Nghiệm của x² - 5x + 6 = 0 là?",
+                            "options": [
+                                "1 và 4",
+                                "2 và 3",
+                                "1 và 6",
+                                "2 và 4"
+                            ],
+                            "answer": 1
+                        }
+                    ],
+                    "practice": [
+                        {
+                            "question": "Bất phương trình x² - 4x + 3 < 0 có nghiệm?",
+                            "options": [
+                                "1 < x < 3",
+                                "x < 1 hoặc x > 3",
+                                "x < 3",
+                                "x > 1"
+                            ],
+                            "answer": 0,
+                            "difficulty": "easy"
+                        },
+                        {
+                            "question": "f(x) = -x² + 2x - 1 có Δ = ?",
+                            "options": [
+                                "0",
+                                "1",
+                                "2",
+                                "4"
+                            ],
+                            "answer": 0,
+                            "difficulty": "easy"
+                        },
+                        {
+                            "question": "Tìm m để f(x) = x² - 2x + m luôn dương",
+                            "options": [
+                                "m > 1",
+                                "m ≥ 1",
+                                "m < 1",
+                                "m ≤ 1"
+                            ],
+                            "answer": 0,
+                            "difficulty": "medium"
+                        },
+                        {
+                            "question": "Bảng xét dấu của f(x) = (x-1)(x-3) cho thấy f(x) > 0 khi?",
+                            "options": [
+                                "1 < x < 3",
+                                "x < 1 hoặc x > 3",
+                                "x > 1",
+                                "x < 3"
+                            ],
+                            "answer": 1,
+                            "difficulty": "hard"
+                        }
+                    ]
+                },
+                "Bài 2: Bất phương trình bậc hai": {
+                    "emoji": "⚖️",
+                    "mô_tả": "Bất phương trình · Giải · Ứng dụng",
+                    "theory": [
+                        {
+                            "title": "⚙️ Bất phương trình bậc hai",
+                            "content": "Bất phương trình bậc hai có dạng:\nax² + bx + c > 0 (< 0, ≥ 0, ≤ 0) với a ≠ 0\n\nCách giải:\n1. Xét dấu tam thức vế trái\n2. Dựa vào bảng xét dấu để kết luận\n\nVí dụ: Giải x² - 3x + 2 > 0\n→ x < 1 hoặc x > 2"
+                        },
+                        {
+                            "title": "💡 Ứng dụng: Bài toán lợi nhuận",
+                            "content": "Một công ty sản xuất x sản phẩm với lợi nhuận:\nP(x) = -x² + 100x - 1600\n\nĐể có lãi: P(x) > 0\n→ -x² + 100x - 1600 > 0\n→ x² - 100x + 1600 < 0\n→ (x - 20)(x - 80) < 0\n→ 20 < x < 80\n\nVậy sản xuất từ 21 đến 79 sản phẩm thì có lãi."
+                        },
+                        {
+                            "title": "📐 Ứng dụng: Chuyển động ném xiên",
+                            "content": "Vật ném lên từ mặt đất với vận tốc v₀, độ cao:\nh(t) = -5t² + v₀t\n\nĐể vật đạt độ cao > 15m (v₀ = 20 m/s):\n-5t² + 20t > 15\n→ -5t² + 20t - 15 > 0\n→ t² - 4t + 3 < 0\n→ 1 < t < 3\n\nVật ở độ cao > 15m trong khoảng 1s đến 3s."
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "question": "Giải bất phương trình x² - 1 > 0",
+                            "options": [
+                                "x < -1 hoặc x > 1",
+                                "-1 < x < 1",
+                                "x < 1",
+                                "x > -1"
+                            ],
+                            "answer": 0
+                        },
+                        {
+                            "question": "Tập nghiệm của -x² + 4 ≥ 0 là?",
+                            "options": [
+                                "[-2, 2]",
+                                "(-∞, -2] ∪ [2, +∞)",
+                                "ℝ",
+                                "∅"
+                            ],
+                            "answer": 0
+                        },
+                        {
+                            "question": "Bất phương trình x² + 1 < 0 có nghiệm?",
+                            "options": [
+                                "x < -1",
+                                "x > 1",
+                                "Vô nghiệm",
+                                "Mọi x"
+                            ],
+                            "answer": 2
+                        }
+                    ],
+                    "practice": [
+                        {
+                            "question": "Giải 2x² - 5x + 2 ≤ 0",
+                            "options": [
+                                "1/2 ≤ x ≤ 2",
+                                "x ≤ 1/2 hoặc x ≥ 2",
+                                "x ≤ 2",
+                                "x ≥ 1/2"
+                            ],
+                            "answer": 0,
+                            "difficulty": "easy"
+                        },
+                        {
+                            "question": "Tìm m để x² + mx + 4 > 0 với mọi x",
+                            "options": [
+                                "-4 < m < 4",
+                                "m < -4 hoặc m > 4",
+                                "m > 0",
+                                "m < 0"
+                            ],
+                            "answer": 0,
+                            "difficulty": "medium"
+                        },
+                        {
+                            "question": "Miền nghiệm của (x-1)(x+3) ≥ 0 là?",
+                            "options": [
+                                "[-3, 1]",
+                                "(-∞, -3] ∪ [1, +∞)",
+                                "[-1, 3]",
+                                "(-∞, -1] ∪ [3, +∞)"
+                            ],
+                            "answer": 1,
+                            "difficulty": "hard"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "Lớp 11": {
+        "Toán": {
+            "Lượng giác": {
+                "Bài 1: Góc và cung lượng giác": {
+                    "emoji": "🔄",
+                    "mô_tả": "Radian · Đường tròn lượng giác · Công thức",
+                    "theory": [
+                        {
+                            "title": "📐 Đơn vị radian",
+                            "content": "1 radian là góc ở tâm chắn cung có độ dài bằng bán kính.\n\nCông thức chuyển đổi:\n• π rad = 180°\n• 1° = π/180 rad\n• 1 rad = 180°/π ≈ 57.3°\n\nVí dụ: 90° = π/2 rad, 60° = π/3 rad, 45° = π/4 rad"
+                        },
+                        {
+                            "title": "🎯 Đường tròn lượng giác",
+                            "content": "Đường tròn lượng giác là đường tròn đơn vị (R = 1).\n\nCác giá trị đặc biệt:\n• cos α = x (hoành độ)\n• sin α = y (tung độ)\n• tan α = sin/cos (cos ≠ 0)\n• cot α = cos/sin (sin ≠ 0)\n\nVí dụ: cos(π/3) = 1/2, sin(π/3) = √3/2"
+                        },
+                        {
+                            "title": "📊 Công thức cơ bản",
+                            "content": "• sin²α + cos²α = 1\n• 1 + tan²α = 1/cos²α\n• 1 + cot²α = 1/sin²α\n• tanα × cotα = 1\n\nCung đặc biệt:\n• sin(π/2 - α) = cosα\n• cos(π/2 - α) = sinα\n• sin(π - α) = sinα\n• cos(π - α) = -cosα"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "question": "180° bằng bao nhiêu radian?",
+                            "options": [
+                                "π/2",
+                                "π",
+                                "2π",
+                                "3π/2"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "sin(π/2) bằng?",
+                            "options": [
+                                "0",
+                                "1",
+                                "-1",
+                                "1/2"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "cos(0) bằng?",
+                            "options": [
+                                "0",
+                                "1",
+                                "-1",
+                                "1/2"
+                            ],
+                            "answer": 1
+                        }
+                    ],
+                    "practice": [
+                        {
+                            "question": "Đổi 120° sang radian",
+                            "options": [
+                                "π/3",
+                                "2π/3",
+                                "π/4",
+                                "5π/6"
+                            ],
+                            "answer": 1,
+                            "difficulty": "easy"
+                        },
+                        {
+                            "question": "sin(π/6) + cos(π/3) = ?",
+                            "options": [
+                                "0",
+                                "1/2",
+                                "1",
+                                "3/2"
+                            ],
+                            "answer": 2,
+                            "difficulty": "easy"
+                        },
+                        {
+                            "question": "tan(π/4) = ?",
+                            "options": [
+                                "0",
+                                "1",
+                                "√3",
+                                "1/√3"
+                            ],
+                            "answer": 1,
+                            "difficulty": "medium"
+                        },
+                        {
+                            "question": "Rút gọn: sin²x + cos²x = ?",
+                            "options": [
+                                "0",
+                                "1",
+                                "2",
+                                "sin2x"
+                            ],
+                            "answer": 1,
+                            "difficulty": "hard"
+                        }
+                    ]
+                },
+                "Bài 2: Phương trình lượng giác cơ bản": {
+                    "emoji": "🔢",
+                    "mô_tả": "sin x = a · cos x = a · tan x = a",
+                    "theory": [
+                        {
+                            "title": "📝 Phương trình sin x = a",
+                            "content": "Điều kiện: |a| ≤ 1\n\nsin x = a ⟺ x = arcsin a + k2π\n            hoặc x = π - arcsin a + k2π   (k ∈ ℤ)\n\nVí dụ: sin x = 1/2\n⟺ x = π/6 + k2π hoặc x = 5π/6 + k2π\n\nĐặc biệt:\n• sin x = 0 ⟺ x = kπ\n• sin x = 1 ⟺ x = π/2 + k2π\n• sin x = -1 ⟺ x = -π/2 + k2π"
+                        },
+                        {
+                            "title": "📝 Phương trình cos x = a",
+                            "content": "Điều kiện: |a| ≤ 1\n\ncos x = a ⟺ x = ± arccos a + k2π (k ∈ ℤ)\n\nVí dụ: cos x = 1/2\n⟺ x = ± π/3 + k2π\n\nĐặc biệt:\n• cos x = 0 ⟺ x = π/2 + kπ\n• cos x = 1 ⟺ x = k2π\n• cos x = -1 ⟺ x = π + k2π"
+                        },
+                        {
+                            "title": "📝 Phương trình tan x = a",
+                            "content": "Điều kiện: cos x ≠ 0 (x ≠ π/2 + kπ)\n\ntan x = a ⟺ x = arctan a + kπ (k ∈ ℤ)\n\nVí dụ: tan x = 1\n⟺ x = π/4 + kπ\n\nPhương trình cot x = a (sin x ≠ 0):\ncot x = a ⟺ x = arccot a + kπ (k ∈ ℤ)"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "question": "Nghiệm của sin x = 0 là?",
+                            "options": [
+                                "x = kπ",
+                                "x = π/2 + kπ",
+                                "x = k2π",
+                                "x = π + k2π"
+                            ],
+                            "answer": 0
+                        },
+                        {
+                            "question": "Nghiệm của cos x = 1 là?",
+                            "options": [
+                                "x = k2π",
+                                "x = π + k2π",
+                                "x = π/2 + kπ",
+                                "x = kπ"
+                            ],
+                            "answer": 0
+                        },
+                        {
+                            "question": "Phương trình tan x = √3 có nghiệm?",
+                            "options": [
+                                "x = π/3 + kπ",
+                                "x = π/6 + kπ",
+                                "x = π/4 + kπ",
+                                "x = π/2 + kπ"
+                            ],
+                            "answer": 0
+                        }
+                    ],
+                    "practice": [
+                        {
+                            "question": "Giải sin x = √2/2",
+                            "options": [
+                                "x = π/4 + k2π hoặc x = 3π/4 + k2π",
+                                "x = π/3 + k2π",
+                                "x = π/6 + k2π",
+                                "x = π/2 + k2π"
+                            ],
+                            "answer": 0,
+                            "difficulty": "easy"
+                        },
+                        {
+                            "question": "Nghiệm dương nhỏ nhất của cos x = 0?",
+                            "options": [
+                                "π/2",
+                                "π",
+                                "0",
+                                "3π/2"
+                            ],
+                            "answer": 0,
+                            "difficulty": "medium"
+                        },
+                        {
+                            "question": "Số nghiệm của sin x = 1/2 trên [0, 2π]?",
+                            "options": [
+                                "1",
+                                "2",
+                                "3",
+                                "4"
+                            ],
+                            "answer": 1,
+                            "difficulty": "hard"
+                        }
+                    ]
+                }
+            },
+            "Logarit": {
+                "Bài 1: Khái niệm Logarit": {
+                    "emoji": "📊",
+                    "mô_tả": "Định nghĩa · Công thức · Tính chất",
+                    "theory": [
+                        {
+                            "title": "📌 Định nghĩa Logarit",
+                            "content": "Cho a > 0, a ≠ 1 và b > 0.\nlog_a b = x ⟺ a^x = b\n\nĐọc: Logarit cơ số a của b.\n\nVí dụ:\n• log₂ 8 = 3 vì 2³ = 8\n• log₃ 9 = 2 vì 3² = 9\n• log₁₀ 100 = 2 vì 10² = 100"
+                        },
+                        {
+                            "title": "📐 Công thức cơ bản",
+                            "content": "Với a > 0, a ≠ 1 và b, c > 0:\n\n• log_a 1 = 0\n• log_a a = 1\n• a^(log_a b) = b\n• log_a (bc) = log_a b + log_a c\n• log_a (b/c) = log_a b - log_a c\n• log_a (b^α) = α · log_a b\n• log_a b = log_c b / log_c a (công thức đổi cơ số)"
+                        },
+                        {
+                            "title": "🔢 Logarit thập phân và tự nhiên",
+                            "content": "Logarit thập phân (cơ số 10):\nlog₁₀ b = log b = lg b\n\nLogarit tự nhiên (cơ số e ≈ 2.718):\nlog_e b = ln b\n\nVí dụ:\n• log 100 = 2\n• ln e = 1\n• ln e² = 2\n\nỨng dụng: Đo độ pH, độ Richter, phân rã phóng xạ."
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "question": "log₂ 16 bằng?",
+                            "options": [
+                                "2",
+                                "3",
+                                "4",
+                                "5"
+                            ],
+                            "answer": 2
+                        },
+                        {
+                            "question": "log₃ 1 bằng?",
+                            "options": [
+                                "0",
+                                "1",
+                                "3",
+                                "Không xác định"
+                            ],
+                            "answer": 0
+                        },
+                        {
+                            "question": "log₅ 25 + log₅ 5 = ?",
+                            "options": [
+                                "2",
+                                "3",
+                                "4",
+                                "5"
+                            ],
+                            "answer": 1
+                        }
+                    ],
+                    "practice": [
+                        {
+                            "question": "Rút gọn: log₂ 8 + log₂ 4",
+                            "options": [
+                                "3",
+                                "4",
+                                "5",
+                                "6"
+                            ],
+                            "answer": 2,
+                            "difficulty": "easy"
+                        },
+                        {
+                            "question": "log₃ (9/27) = ?",
+                            "options": [
+                                "-1",
+                                "0",
+                                "1",
+                                "2"
+                            ],
+                            "answer": 0,
+                            "difficulty": "easy"
+                        },
+                        {
+                            "question": "Cho log₇ 2 = a. Tính log₂ 49 theo a?",
+                            "options": [
+                                "2/a",
+                                "a/2",
+                                "2a",
+                                "1/(2a)"
+                            ],
+                            "answer": 0,
+                            "difficulty": "medium"
+                        },
+                        {
+                            "question": "Giá trị của ln e³ = ?",
+                            "options": [
+                                "1",
+                                "e",
+                                "2",
+                                "3"
+                            ],
+                            "answer": 3,
+                            "difficulty": "hard"
+                        }
+                    ]
+                },
+                "Bài 2: Hàm số mũ và logarit": {
+                    "emoji": "📈",
+                    "mô_tả": "Đồ thị · Phương trình · Bất phương trình",
+                    "theory": [
+                        {
+                            "title": "📈 Hàm số mũ",
+                            "content": "Hàm số mũ: y = a^x (a > 0, a ≠ 1)\n\nTính chất:\n• TXĐ: ℝ\n• TGT: (0, +∞)\n• a > 1: hàm số đồng biến\n• 0 < a < 1: hàm số nghịch biến\n• Đồ thị luôn đi qua A(0, 1)\n• Tiệm cận ngang: y = 0 (trục Ox)"
+                        },
+                        {
+                            "title": "📉 Hàm số logarit",
+                            "content": "Hàm số logarit: y = log_a x (a > 0, a ≠ 1)\n\nTính chất:\n• TXĐ: (0, +∞)\n• TGT: ℝ\n• a > 1: hàm số đồng biến\n• 0 < a < 1: hàm số nghịch biến\n• Đồ thị luôn đi qua A(1, 0)\n• Tiệm cận đứng: x = 0 (trục Oy)"
+                        },
+                        {
+                            "title": "⚡ Phương trình mũ cơ bản",
+                            "content": "a^{f(x)} = b (a > 0, a ≠ 1, b > 0)\n⟺ f(x) = log_a b\n\nVí dụ: 2^x = 8 ⟺ 2^x = 2³ ⟺ x = 3\n\nBất phương trình mũ:\n• a > 1: a^{f(x)} > a^{g(x)} ⟺ f(x) > g(x)\n• 0 < a < 1: a^{f(x)} > a^{g(x)} ⟺ f(x) < g(x)"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "question": "Tập xác định của y = log₂ (x-1) là?",
+                            "options": [
+                                "(1, +∞)",
+                                "[1, +∞)",
+                                "ℝ",
+                                "ℝ \\ {1}"
+                            ],
+                            "answer": 0
+                        },
+                        {
+                            "question": "Hàm số y = (1/2)^x đồng biến hay nghịch biến?",
+                            "options": [
+                                "Đồng biến",
+                                "Nghịch biến",
+                                "Không đổi",
+                                "Không xác định"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "Nghiệm của 3^x = 27 là?",
+                            "options": [
+                                "2",
+                                "3",
+                                "4",
+                                "9"
+                            ],
+                            "answer": 1
+                        }
+                    ],
+                    "practice": [
+                        {
+                            "question": "Giải bất phương trình 2^x > 16",
+                            "options": [
+                                "x > 4",
+                                "x < 4",
+                                "x > 8",
+                                "x < 8"
+                            ],
+                            "answer": 0,
+                            "difficulty": "easy"
+                        },
+                        {
+                            "question": "Tập xác định của y = log₃ (x² - 4) là?",
+                            "options": [
+                                "(-∞, -2) ∪ (2, +∞)",
+                                "(-2, 2)",
+                                "ℝ",
+                                "[−2, 2]"
+                            ],
+                            "answer": 0,
+                            "difficulty": "medium"
+                        },
+                        {
+                            "question": "Nghiệm của log₂ (x-1) = 3 là?",
+                            "options": [
+                                "7",
+                                "8",
+                                "9",
+                                "10"
+                            ],
+                            "answer": 2,
+                            "difficulty": "hard"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "Lớp 12": {
+        "Toán": {
+            "Nguyên hàm và Tích phân": {
+                "Bài 1: Nguyên hàm": {
+                    "emoji": "∫",
+                    "mô_tả": "Định nghĩa · Công thức · Bảng nguyên hàm",
+                    "theory": [
+                        {
+                            "title": "📌 Định nghĩa Nguyên hàm",
+                            "content": "F(x) là nguyên hàm của f(x) trên (a, b) nếu:\nF'(x) = f(x) với mọi x ∈ (a, b)\n\nKý hiệu: ∫ f(x)dx = F(x) + C\n\n• C là hằng số tùy ý (hằng số tích phân)\n• Mọi nguyên hàm đều sai khác một hằng số\n\nVí dụ: ∫ 2x dx = x² + C vì (x²)' = 2x"
+                        },
+                        {
+                            "title": "📊 Bảng nguyên hàm cơ bản",
+                            "content": "• ∫ k dx = kx + C\n• ∫ x^n dx = x^{n+1}/(n+1) + C (n ≠ -1)\n• ∫ (1/x) dx = ln|x| + C\n• ∫ e^x dx = e^x + C\n• ∫ a^x dx = a^x/ln a + C\n• ∫ cos x dx = sin x + C\n• ∫ sin x dx = -cos x + C\n• ∫ (1/cos²x) dx = tan x + C"
+                        },
+                        {
+                            "title": "🔧 Tính chất của Nguyên hàm",
+                            "content": "• ∫ k·f(x) dx = k·∫ f(x) dx (k ≠ 0)\n• ∫ [f(x) ± g(x)] dx = ∫ f(x) dx ± ∫ g(x) dx\n\nPhương pháp tính:\n1. Dùng bảng nguyên hàm trực tiếp\n2. Phương pháp đổi biến số:\n   Đặt u = u(x), ∫ f(u(x))·u'(x) dx = ∫ f(u) du\n3. Phương pháp nguyên hàm từng phần:\n   ∫ u dv = uv - ∫ v du"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "question": "∫ x³ dx bằng?",
+                            "options": [
+                                "x⁴ + C",
+                                "x⁴/4 + C",
+                                "3x² + C",
+                                "x²/2 + C"
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "question": "(e^x)' bằng?",
+                            "options": [
+                                "e^x",
+                                "ln x",
+                                "x·e^{x-1}",
+                                "e^{x-1}"
+                            ],
+                            "answer": 0
+                        },
+                        {
+                            "question": "∫ cos x dx bằng?",
+                            "options": [
+                                "-sin x + C",
+                                "sin x + C",
+                                "cos x + C",
+                                "-cos x + C"
+                            ],
+                            "answer": 1
+                        }
+                    ],
+                    "practice": [
+                        {
+                            "question": "∫ 6x² dx bằng?",
+                            "options": [
+                                "6x³ + C",
+                                "2x³ + C",
+                                "12x + C",
+                                "3x³ + C"
+                            ],
+                            "answer": 1,
+                            "difficulty": "easy"
+                        },
+                        {
+                            "question": "∫ (3x² + 2x) dx bằng?",
+                            "options": [
+                                "x³ + x² + C",
+                                "3x³ + 2x² + C",
+                                "6x + 2 + C",
+                                "x³ + x + C"
+                            ],
+                            "answer": 0,
+                            "difficulty": "medium"
+                        },
+                        {
+                            "question": "Tìm F(x) biết F'(x) = 1/x và F(1) = 0",
+                            "options": [
+                                "F(x) = ln x",
+                                "F(x) = 1/x²",
+                                "F(x) = x",
+                                "F(x) = e^x"
+                            ],
+                            "answer": 0,
+                            "difficulty": "hard"
+                        }
+                    ]
+                },
+                "Bài 2: Tích phân": {
+                    "emoji": "📐",
+                    "mô_tả": "Công thức Newton-Leibniz · Tính chất · Ứng dụng",
+                    "theory": [
+                        {
+                            "title": "📌 Định nghĩa Tích phân",
+                            "content": "Tích phân của f(x) trên [a, b] là:\n∫_a^b f(x) dx = F(b) - F(a)\n\nTrong đó F(x) là nguyên hàm của f(x).\nCông thức Newton-Leibniz.\n\na: cận dưới, b: cận trên.\n\nVí dụ: ∫_0^1 x dx = [x²/2]_0¹ = 1/2 - 0 = 1/2"
+                        },
+                        {
+                            "title": "📐 Tính chất của Tích phân",
+                            "content": "• ∫_a^b f(x) dx = -∫_b^a f(x) dx\n• ∫_a^a f(x) dx = 0\n• ∫_a^b k·f(x) dx = k·∫_a^b f(x) dx\n• ∫_a^b [f(x)±g(x)] dx = ∫_a^b f(x) dx ± ∫_a^b g(x) dx\n• ∫_a^b f(x) dx = ∫_a^c f(x) dx + ∫_c^b f(x) dx"
+                        },
+                        {
+                            "title": "🎯 Ứng dụng: Tính diện tích",
+                            "content": "Diện tích hình phẳng giới hạn bởi:\n• y = f(x), trục Ox, x = a, x = b:\n  S = ∫_a^b |f(x)| dx\n\n• y = f(x), y = g(x), x = a, x = b:\n  S = ∫_a^b |f(x) - g(x)| dx\n\nVí dụ: S = ∫_0^2 (x²) dx = [x³/3]_0² = 8/3 (đvdt)"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "question": "∫_0^1 2x dx bằng?",
+                            "options": [
+                                "1",
+                                "2",
+                                "0",
+                                "0.5"
+                            ],
+                            "answer": 0
+                        },
+                        {
+                            "question": "∫_a^a f(x) dx = ?",
+                            "options": [
+                                "0",
+                                "f(a)",
+                                "Không xác định",
+                                "1"
+                            ],
+                            "answer": 0
+                        },
+                        {
+                            "question": "∫_0^π sin x dx = ?",
+                            "options": [
+                                "0",
+                                "1",
+                                "2",
+                                "π"
+                            ],
+                            "answer": 2
+                        }
+                    ],
+                    "practice": [
+                        {
+                            "question": "∫_1^2 (2x) dx = ?",
+                            "options": [
+                                "3",
+                                "4",
+                                "5",
+                                "6"
+                            ],
+                            "answer": 0,
+                            "difficulty": "easy"
+                        },
+                        {
+                            "question": "Diện tích S = ∫_0^1 x² dx = ?",
+                            "options": [
+                                "1/3",
+                                "1/2",
+                                "1",
+                                "2/3"
+                            ],
+                            "answer": 0,
+                            "difficulty": "easy"
+                        },
+                        {
+                            "question": "∫_0^1 (e^x) dx = ?",
+                            "options": [
+                                "e - 1",
+                                "e",
+                                "1",
+                                "e + 1"
+                            ],
+                            "answer": 0,
+                            "difficulty": "medium"
+                        },
+                        {
+                            "question": "Tính ∫_0^π/2 cos x dx",
+                            "options": [
+                                "0",
+                                "1",
+                                "π/2",
+                                "-1"
+                            ],
+                            "answer": 1,
+                            "difficulty": "hard"
+                        }
+                    ]
+                },
+                "Bài 3: Ứng dụng của Tích phân": {
+                    "emoji": "📏",
+                    "mô_tả": "Thể tích · Quãng đường · Bài toán thực tế",
+                    "theory": [
+                        {
+                            "title": "📦 Tính thể tích vật thể",
+                            "content": "Thể tích vật thể tròn xoay khi quay y = f(x) quanh Ox:\nV = π ∫_a^b [f(x)]² dx\n\nThể tích khối tròn xoay giới hạn bởi y = f(x), y = g(x):\nV = π ∫_a^b |f²(x) - g²(x)| dx\n\nVí dụ: V = π ∫_0^1 x² dx = π·[x³/3]_0¹ = π/3"
+                        },
+                        {
+                            "title": "🚗 Ứng dụng: Quãng đường và vận tốc",
+                            "content": "Cho vận tốc v(t), quãng đường đi được từ t₁ đến t₂:\ns = ∫_{t₁}^{t₂} v(t) dt\n\nGia tốc a(t), vận tốc:\nv(t) = ∫ a(t) dt\n\nVí dụ: v(t) = 3t² m/s, đi từ t=0 đến t=2s\ns = ∫_0^2 3t² dt = [t³]_0² = 8m"
+                        },
+                        {
+                            "title": "💰 Ứng dụng: Tính lợi nhuận",
+                            "content": "Tốc độ thay đổi lợi nhuận biên M'(x).\nTổng lợi nhuận từ x₁ đến x₂ sản phẩm:\nΔM = ∫_{x₁}^{x₂} M'(x) dx\n\nVí dụ: M'(x) = 100 - 2x (nghìn đồng/sản phẩm)\nTừ 10 đến 20 sản phẩm:\nΔM = ∫_{10}^{20} (100 - 2x) dx\n= [100x - x²]_{10}^{20}\n= (2000-400) - (1000-100) = 700 nghìn đồng"
+                        }
+                    ],
+                    "quiz": [
+                        {
+                            "question": "Công thức tính thể tích vật thể tròn xoay?",
+                            "options": [
+                                "π∫[f(x)]²dx",
+                                "∫[f(x)]²dx",
+                                "π∫f(x)dx",
+                                "2π∫f(x)dx"
+                            ],
+                            "answer": 0
+                        },
+                        {
+                            "question": "v(t) = 2t, quãng đường đi được từ t=1 đến t=3 là?",
+                            "options": [
+                                "8m",
+                                "6m",
+                                "4m",
+                                "10m"
+                            ],
+                            "answer": 0
+                        },
+                        {
+                            "question": "∫_0^1 x³ dx = ?",
+                            "options": [
+                                "1/3",
+                                "1/4",
+                                "1",
+                                "0"
+                            ],
+                            "answer": 1
+                        }
+                    ],
+                    "practice": [
+                        {
+                            "question": "Tính thể tích khi quay y = x, x=0, x=1 quanh Ox",
+                            "options": [
+                                "π/3",
+                                "π/2",
+                                "π",
+                                "2π"
+                            ],
+                            "answer": 0,
+                            "difficulty": "easy"
+                        },
+                        {
+                            "question": "v(t) = 4t³ - 2t, quãng đường từ t=0 đến t=2?",
+                            "options": [
+                                "12m",
+                                "14m",
+                                "16m",
+                                "18m"
+                            ],
+                            "answer": 0,
+                            "difficulty": "easy"
+                        },
+                        {
+                            "question": "∫_0^π sin²x dx (gợi ý: hạ bậc) = ?",
+                            "options": [
+                                "π/2",
+                                "π",
+                                "0",
+                                "1"
+                            ],
+                            "answer": 0,
+                            "difficulty": "medium"
+                        },
+                        {
+                            "question": "Vật thể quay y = √x, x=0, x=4 quanh Ox có V = ?",
+                            "options": [
+                                "8π",
+                                "4π",
+                                "16π",
+                                "2π"
+                            ],
+                            "answer": 0,
+                            "difficulty": "hard"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
